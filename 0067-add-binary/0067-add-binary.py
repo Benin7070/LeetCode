@@ -13,4 +13,4 @@ class Solution:
             i-=1
             j-=1
         reverse=result[::-1]
-        return ''+join(reverse)
+        return ''.join(reverse)
