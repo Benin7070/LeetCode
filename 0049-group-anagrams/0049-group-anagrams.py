@@ -14,7 +14,6 @@ class Solution:
                     continue
                 if sorted(el)==curr_el:
                     curr_res.append(el)
-                curr_res.sort()
             res.append(curr_res)
             for ch in curr_res:
                 if ch in strs:
