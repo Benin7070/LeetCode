@@ -18,7 +18,7 @@ class Solution:
                 tmp=c.copy()
                 f=1
                 if el_l != len(el):
-                    f==0
+                    f=0
                     continue
                 for j,char in enumerate(el):
                     if char not in tmp or tmp[char]<=0:
