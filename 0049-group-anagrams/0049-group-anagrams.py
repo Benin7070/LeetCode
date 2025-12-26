@@ -3,12 +3,6 @@ class Solution:
         res=[]
         while strs:
             curr_res=[]
-            c={}
-            for char in strs[0]:
-                if char not in c:
-                    c[char]=1
-                else:
-                    c[char]+=1
             curr_res.append(strs[0])
             curr_el=sorted(strs[0])
             curr_el_ln=len(strs[0])
