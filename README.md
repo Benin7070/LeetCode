@@ -74,6 +74,7 @@ https://leetcode.com/u/BENIN5050
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0031-next-permutation](https://github.com/Benin7070/LeetCode/tree/main/0031-next-permutation/) | Medium |
 | [0118-pascals-triangle](https://github.com/Benin7070/LeetCode/tree/main/0118-pascals-triangle/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -122,4 +123,8 @@ https://leetcode.com/u/BENIN5050
 | [0094-binary-tree-inorder-traversal](https://github.com/Benin7070/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Benin7070/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Benin7070/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0031-next-permutation](https://github.com/Benin7070/LeetCode/tree/main/0031-next-permutation/) | Medium |
 <!---LeetCode Topics End-->
