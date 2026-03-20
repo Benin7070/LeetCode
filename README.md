@@ -76,6 +76,7 @@ https://leetcode.com/u/BENIN5050
 | ------- | ------- |
 | [0031-next-permutation](https://github.com/Benin7070/LeetCode/tree/main/0031-next-permutation/) | Medium |
 | [0075-sort-colors](https://github.com/Benin7070/LeetCode/tree/main/0075-sort-colors/) | Medium |
+| [0078-subsets](https://github.com/Benin7070/LeetCode/tree/main/0078-subsets/) | Medium |
 | [0118-pascals-triangle](https://github.com/Benin7070/LeetCode/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Benin7070/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 ## Dynamic Programming
@@ -142,9 +143,14 @@ https://leetcode.com/u/BENIN5050
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/Benin7070/LeetCode/tree/main/0078-subsets/) | Medium |
 | [0231-power-of-two](https://github.com/Benin7070/LeetCode/tree/main/0231-power-of-two/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/Benin7070/LeetCode/tree/main/0231-power-of-two/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0078-subsets](https://github.com/Benin7070/LeetCode/tree/main/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
