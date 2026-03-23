@@ -10,7 +10,7 @@ class Solution:
             if not mono_dec_stack:
                 next_greater[i]=-1
                 mono_dec_stack.append(i)
-            if mono_dec_stack and mono_dec_stack[-1]>i:
+            elif mono_dec_stack and mono_dec_stack[-1]>i:
                 next_greater[i]=mono_dec_stack[-1]
                 mono_dec_stack.append(i)
             print(mono_dec_stack)
