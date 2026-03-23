@@ -2,9 +2,8 @@ class Solution:
     def nextGreaterElement(self, nums1: List[int], nums2: List[int]) -> List[int]:
         mono_dec_stack=[]
         next_greater={}
-        nums2=nums2[::-1]
         res=[]
-        for i in nums2:
+        for i in reversed(nums2):
             while mono_dec_stack and mono_dec_stack[-1]<i:
                 mono_dec_stack.pop()
             if not mono_dec_stack:
