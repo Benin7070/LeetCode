@@ -150,6 +150,7 @@ https://leetcode.com/u/BENIN5050
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/Benin7070/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0231-power-of-two](https://github.com/Benin7070/LeetCode/tree/main/0231-power-of-two/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -163,4 +164,8 @@ https://leetcode.com/u/BENIN5050
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/Benin7070/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/Benin7070/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
