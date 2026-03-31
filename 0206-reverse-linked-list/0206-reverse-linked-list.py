@@ -5,19 +5,27 @@
 #         self.next = next
 class Solution:
     def __init__(self):
-        self.res=None
+        self.res=self.head=self.temp=None
     def reverseList(self, head: Optional[ListNode]) -> Optional[ListNode]:
         def recu(node):
             if node==None:
                 return 
             else:
                 if not self.res:
-                    self.res=ListNode(node.val)
+                    self.res=node
+                    node=self.head=self.res.next
+                    self.res.next=None
                 else:
-                    n1=ListNode(node.val)
-                    n1.next=self.res
-                    self.res=n1
+                    self.temp=self.head
+                    self.head=self.head.next
+                    self.temp.next=None
+                    self.temp.next=self.res
+                    self.res=self.temp
+                    node=self.head
+                    
                 recu(node.next)
         recu(head)
-        return self.res
+        if self.head:
+            self.head.next=self.res
+        return self.head
         
