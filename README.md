@@ -152,6 +152,7 @@ https://leetcode.com/u/BENIN5050
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Benin7070/LeetCode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Benin7070/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0231-power-of-two](https://github.com/Benin7070/LeetCode/tree/main/0231-power-of-two/) | Easy |
 ## Backtracking
@@ -171,6 +172,7 @@ https://leetcode.com/u/BENIN5050
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Benin7070/LeetCode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Benin7070/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Benin7070/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Benin7070/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
