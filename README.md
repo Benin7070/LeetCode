@@ -138,6 +138,7 @@ https://leetcode.com/u/BENIN5050
 | [0075-sort-colors](https://github.com/Benin7070/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Benin7070/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Benin7070/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/Benin7070/LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Benin7070/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -170,6 +171,7 @@ https://leetcode.com/u/BENIN5050
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/Benin7070/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Benin7070/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/Benin7070/LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Benin7070/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -184,6 +186,7 @@ https://leetcode.com/u/BENIN5050
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Benin7070/LeetCode/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Benin7070/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Benin7070/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/Benin7070/LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Benin7070/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0445-add-two-numbers-ii](https://github.com/Benin7070/LeetCode/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Benin7070/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
