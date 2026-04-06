@@ -1,7 +1,6 @@
 class Solution:
     def isValid(self, s: str) -> bool:
         stack=[]
-        close_tags=")]}"
         match_tags={")":"(","]":"[","}":"{"}
         flg=1
 
