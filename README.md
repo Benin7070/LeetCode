@@ -129,6 +129,7 @@ https://leetcode.com/u/BENIN5050
 | [0094-binary-tree-inorder-traversal](https://github.com/Benin7070/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Benin7070/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Benin7070/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0155-min-stack](https://github.com/Benin7070/LeetCode/tree/main/0155-min-stack/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Benin7070/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0445-add-two-numbers-ii](https://github.com/Benin7070/LeetCode/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Benin7070/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
@@ -199,4 +200,8 @@ https://leetcode.com/u/BENIN5050
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Benin7070/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0155-min-stack](https://github.com/Benin7070/LeetCode/tree/main/0155-min-stack/) | Medium |
 <!---LeetCode Topics End-->
