@@ -6,7 +6,8 @@ class Solution:
         flg=1
 
         for i in s:
-            if i not in close_tags:
+            n=ord(i)
+            if n==91 or n==123 or n==40:
                 stack.append(i)
             else:
                 if stack and stack[-1]==match_tags.get(i):
