@@ -1,16 +1,20 @@
 class Solution:
     def isValid(self, s: str) -> bool:
-        st=[]
-        for ch in s:
-            if ch in '({[':
-                st.append(ch)
+        stack=[]
+        close_tags=")]}"
+        match_tags={")":"(","]":"[","}":"{"}
+        flg=1
+
+        for i in s:
+            if i not in close_tags:
+                stack.append(i)
             else:
-                if not st:
-                    return False
-                top=st.pop()
-                if (top=='(' and ch!=")") or (top=='{' and ch!='}') or (top=="[" and ch!=']') :
-                    return False
-        if st:      
-            return False
-        else:
+                if stack and stack[-1]==match_tags.get(i):
+                    stack.pop()
+                else:
+                    flg=0
+                    break
+        if flg and not stack:
             return True
+        else:
+            return False
