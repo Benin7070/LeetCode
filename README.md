@@ -76,6 +76,7 @@ https://leetcode.com/u/BENIN5050
 | ------- | ------- |
 | [0031-next-permutation](https://github.com/Benin7070/LeetCode/tree/main/0031-next-permutation/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Benin7070/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0059-spiral-matrix-ii](https://github.com/Benin7070/LeetCode/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0075-sort-colors](https://github.com/Benin7070/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/Benin7070/LeetCode/tree/main/0078-subsets/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Benin7070/LeetCode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
@@ -232,5 +233,10 @@ https://leetcode.com/u/BENIN5050
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0059-spiral-matrix-ii](https://github.com/Benin7070/LeetCode/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0085-maximal-rectangle](https://github.com/Benin7070/LeetCode/tree/main/0085-maximal-rectangle/) | Hard |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0059-spiral-matrix-ii](https://github.com/Benin7070/LeetCode/tree/main/0059-spiral-matrix-ii/) | Medium |
 <!---LeetCode Topics End-->
