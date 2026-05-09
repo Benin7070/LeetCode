@@ -74,6 +74,7 @@ https://leetcode.com/u/BENIN5050
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Benin7070/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0031-next-permutation](https://github.com/Benin7070/LeetCode/tree/main/0031-next-permutation/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Benin7070/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0059-spiral-matrix-ii](https://github.com/Benin7070/LeetCode/tree/main/0059-spiral-matrix-ii/) | Medium |
@@ -189,6 +190,7 @@ https://leetcode.com/u/BENIN5050
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Benin7070/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Benin7070/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Benin7070/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Benin7070/LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
