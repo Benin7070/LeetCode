@@ -77,6 +77,7 @@ https://leetcode.com/u/BENIN5050
 | [0001-two-sum](https://github.com/Benin7070/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0031-next-permutation](https://github.com/Benin7070/LeetCode/tree/main/0031-next-permutation/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Benin7070/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0048-rotate-image](https://github.com/Benin7070/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/Benin7070/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/Benin7070/LeetCode/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Benin7070/LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
@@ -170,6 +171,7 @@ https://leetcode.com/u/BENIN5050
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Benin7070/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
+| [0048-rotate-image](https://github.com/Benin7070/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0231-power-of-two](https://github.com/Benin7070/LeetCode/tree/main/0231-power-of-two/) | Easy |
 | [0445-add-two-numbers-ii](https://github.com/Benin7070/LeetCode/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0556-next-greater-element-iii](https://github.com/Benin7070/LeetCode/tree/main/0556-next-greater-element-iii/) | Medium |
@@ -239,6 +241,7 @@ https://leetcode.com/u/BENIN5050
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/Benin7070/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/Benin7070/LeetCode/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Benin7070/LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0085-maximal-rectangle](https://github.com/Benin7070/LeetCode/tree/main/0085-maximal-rectangle/) | Hard |
