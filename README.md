@@ -79,6 +79,7 @@ https://leetcode.com/u/BENIN5050
 | [0042-trapping-rain-water](https://github.com/Benin7070/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0048-rotate-image](https://github.com/Benin7070/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/Benin7070/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
+| [0056-merge-intervals](https://github.com/Benin7070/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/Benin7070/LeetCode/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Benin7070/LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/Benin7070/LeetCode/tree/main/0075-sort-colors/) | Medium |
@@ -166,6 +167,7 @@ https://leetcode.com/u/BENIN5050
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0056-merge-intervals](https://github.com/Benin7070/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/Benin7070/LeetCode/tree/main/0075-sort-colors/) | Medium |
 ## Math
 | Problem Name | Difficulty |
