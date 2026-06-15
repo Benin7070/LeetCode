@@ -1,10 +1,24 @@
 class Solution:
     def merge(self, nums1: List[int], m: int, nums2: List[int], n: int) -> None:
-        res_li=[]
-        for i in range(m):
-            res_li.append(nums1[i])
-            print(res_li)
-        for j in range(n):
-            res_li.append(nums2[j])
-        nums1[:]=sorted(res_li)
-        
+        i=j=0
+        temp=nums1.copy()
+        nums1.clear()
+        while i<m and j<n:
+            if temp[i]<nums2[j]:
+                nums1.append(temp[i])
+                i+=1
+            elif temp[i]>nums2[j]:
+                nums1.append(nums2[j])
+                j+=1
+            elif temp[i]==nums2[j]:
+                nums1.append(temp[i])
+                nums1.append(nums2[j])
+                i+=1
+                j+=1
+
+        if i<m:
+            for k in range(m-i):
+                nums1.append(temp[k+i])
+        if j<n:
+            for k in range(n-j):
+                nums1.append(nums2[k+j])
