@@ -86,6 +86,7 @@ https://leetcode.com/u/BENIN5050
 | [0078-subsets](https://github.com/Benin7070/LeetCode/tree/main/0078-subsets/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Benin7070/LeetCode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/Benin7070/LeetCode/tree/main/0085-maximal-rectangle/) | Hard |
+| [0088-merge-sorted-array](https://github.com/Benin7070/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0118-pascals-triangle](https://github.com/Benin7070/LeetCode/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Benin7070/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Benin7070/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
@@ -158,6 +159,7 @@ https://leetcode.com/u/BENIN5050
 | [0031-next-permutation](https://github.com/Benin7070/LeetCode/tree/main/0031-next-permutation/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Benin7070/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/Benin7070/LeetCode/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/Benin7070/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Benin7070/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Benin7070/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Benin7070/LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
@@ -169,6 +171,7 @@ https://leetcode.com/u/BENIN5050
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/Benin7070/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/Benin7070/LeetCode/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/Benin7070/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
