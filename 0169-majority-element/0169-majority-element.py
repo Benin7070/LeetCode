@@ -5,7 +5,7 @@ class Solution:
         max_val=None
         for i in nums:
             freq[i]=freq.get(i,0)+1
-            if freq.get(i)>max_freq:
+            if freq[i]>max_freq:
                 max_freq=freq.get(i)
                 max_val=i
         return max_val
