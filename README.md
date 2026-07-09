@@ -284,6 +284,7 @@ https://leetcode.com/u/BENIN5050
 | [0176-second-highest-salary](https://github.com/Benin7070/LeetCode/tree/main/0176-second-highest-salary/) | Medium |
 | [0177-nth-highest-salary](https://github.com/Benin7070/LeetCode/tree/main/0177-nth-highest-salary/) | Medium |
 | [0178-rank-scores](https://github.com/Benin7070/LeetCode/tree/main/0178-rank-scores/) | Medium |
+| [0180-consecutive-numbers](https://github.com/Benin7070/LeetCode/tree/main/0180-consecutive-numbers/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
