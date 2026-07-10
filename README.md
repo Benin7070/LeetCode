@@ -290,6 +290,7 @@ https://leetcode.com/u/BENIN5050
 | [0183-customers-who-never-order](https://github.com/Benin7070/LeetCode/tree/main/0183-customers-who-never-order/) | Easy |
 | [0184-department-highest-salary](https://github.com/Benin7070/LeetCode/tree/main/0184-department-highest-salary/) | Medium |
 | [0185-department-top-three-salaries](https://github.com/Benin7070/LeetCode/tree/main/0185-department-top-three-salaries/) | Hard |
+| [0196-delete-duplicate-emails](https://github.com/Benin7070/LeetCode/tree/main/0196-delete-duplicate-emails/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
