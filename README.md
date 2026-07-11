@@ -298,6 +298,7 @@ https://leetcode.com/u/BENIN5050
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Benin7070/LeetCode/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [0577-employee-bonus](https://github.com/Benin7070/LeetCode/tree/main/0577-employee-bonus/) | Easy |
 | [0584-find-customer-referee](https://github.com/Benin7070/LeetCode/tree/main/0584-find-customer-referee/) | Easy |
+| [0585-investments-in-2016](https://github.com/Benin7070/LeetCode/tree/main/0585-investments-in-2016/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
