@@ -295,6 +295,7 @@ https://leetcode.com/u/BENIN5050
 | [0262-trips-and-users](https://github.com/Benin7070/LeetCode/tree/main/0262-trips-and-users/) | Hard |
 | [0511-game-play-analysis-i](https://github.com/Benin7070/LeetCode/tree/main/0511-game-play-analysis-i/) | Easy |
 | [0550-game-play-analysis-iv](https://github.com/Benin7070/LeetCode/tree/main/0550-game-play-analysis-iv/) | Medium |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/Benin7070/LeetCode/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
