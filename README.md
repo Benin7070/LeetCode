@@ -296,6 +296,7 @@ https://leetcode.com/u/BENIN5050
 | [0511-game-play-analysis-i](https://github.com/Benin7070/LeetCode/tree/main/0511-game-play-analysis-i/) | Easy |
 | [0550-game-play-analysis-iv](https://github.com/Benin7070/LeetCode/tree/main/0550-game-play-analysis-iv/) | Medium |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Benin7070/LeetCode/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
+| [0577-employee-bonus](https://github.com/Benin7070/LeetCode/tree/main/0577-employee-bonus/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
