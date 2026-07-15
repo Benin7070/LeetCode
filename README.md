@@ -307,6 +307,7 @@ https://leetcode.com/u/BENIN5050
 | [0607-sales-person](https://github.com/Benin7070/LeetCode/tree/main/0607-sales-person/) | Easy |
 | [0608-tree-node](https://github.com/Benin7070/LeetCode/tree/main/0608-tree-node/) | Medium |
 | [0610-triangle-judgement](https://github.com/Benin7070/LeetCode/tree/main/0610-triangle-judgement/) | Easy |
+| [0619-biggest-single-number](https://github.com/Benin7070/LeetCode/tree/main/0619-biggest-single-number/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
