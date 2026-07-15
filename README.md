@@ -304,6 +304,7 @@ https://leetcode.com/u/BENIN5050
 | [0596-classes-with-at-least-5-students](https://github.com/Benin7070/LeetCode/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [0601-human-traffic-of-stadium](https://github.com/Benin7070/LeetCode/tree/main/0601-human-traffic-of-stadium/) | Hard |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/Benin7070/LeetCode/tree/main/0602-friend-requests-ii-who-has-the-most-friends/) | Medium |
+| [0607-sales-person](https://github.com/Benin7070/LeetCode/tree/main/0607-sales-person/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
