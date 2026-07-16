@@ -5,17 +5,14 @@ class Solution:
         res=0
         if n<=1:
             return 1
+        if n in self.dp:
+            return self.dp[n]
         for i in range(1,n+1):
-            if i-1 not in self.dp:
-                left=self.numTrees(i-1)
-                self.dp[i-1]=left
-            else:
-                left=self.dp[i-1]
-            if n-i not in self.dp:
-                right=self.numTrees(n-i)
-                self.dp[n-i]=right
-            else:
-                right=self.dp[n-i]
+            left=self.numTrees(i-1)
+            self.dp[i-1]=left
+            right=self.numTrees(n-i)
+            self.dp[n-i]=right
+
             res+=(left*right)
 
         return res
