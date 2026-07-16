@@ -117,6 +117,7 @@ https://leetcode.com/u/BENIN5050
 | [0145-binary-tree-postorder-traversal](https://github.com/Benin7070/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Benin7070/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0513-find-bottom-left-tree-value](https://github.com/Benin7070/LeetCode/tree/main/0513-find-bottom-left-tree-value/) | Medium |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Benin7070/LeetCode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -145,6 +146,7 @@ https://leetcode.com/u/BENIN5050
 | [0145-binary-tree-postorder-traversal](https://github.com/Benin7070/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Benin7070/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0513-find-bottom-left-tree-value](https://github.com/Benin7070/LeetCode/tree/main/0513-find-bottom-left-tree-value/) | Medium |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Benin7070/LeetCode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -336,4 +338,5 @@ https://leetcode.com/u/BENIN5050
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Benin7070/LeetCode/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Benin7070/LeetCode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
