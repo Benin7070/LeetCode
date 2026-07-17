@@ -319,6 +319,7 @@ https://leetcode.com/u/BENIN5050
 | [0619-biggest-single-number](https://github.com/Benin7070/LeetCode/tree/main/0619-biggest-single-number/) | Easy |
 | [0620-not-boring-movies](https://github.com/Benin7070/LeetCode/tree/main/0620-not-boring-movies/) | Easy |
 | [0626-exchange-seats](https://github.com/Benin7070/LeetCode/tree/main/0626-exchange-seats/) | Medium |
+| [0627-swap-sex-of-employees](https://github.com/Benin7070/LeetCode/tree/main/0627-swap-sex-of-employees/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
