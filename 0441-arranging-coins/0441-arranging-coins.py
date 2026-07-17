@@ -1,13 +1,14 @@
 class Solution:
     def arrangeCoins(self, n: int) -> int:
-        res=0
-        i=1
-        while True:
-            m=(i*(i+1))//2
-            if m<=n:
-                res+=1
-                i+=1
-            else:
-                break
+        left, right = 0, n
 
-        return res
+        while left <= right:
+            mid = (left + right) // 2
+            coins = mid * (mid + 1) // 2
+
+            if coins <= n:
+                left = mid + 1
+            else:
+                right = mid - 1
+
+        return right
