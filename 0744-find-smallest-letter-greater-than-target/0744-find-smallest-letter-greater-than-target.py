@@ -13,7 +13,6 @@ class Solution:
                 dp.append(letters[mid])
             else:
                 left=mid+1
-        print(dp)
         while dp:
             if ord(dp[-1])>ord(target):
                 return dp[-1]
