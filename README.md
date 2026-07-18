@@ -320,6 +320,7 @@ https://leetcode.com/u/BENIN5050
 | [0620-not-boring-movies](https://github.com/Benin7070/LeetCode/tree/main/0620-not-boring-movies/) | Easy |
 | [0626-exchange-seats](https://github.com/Benin7070/LeetCode/tree/main/0626-exchange-seats/) | Medium |
 | [0627-swap-sex-of-employees](https://github.com/Benin7070/LeetCode/tree/main/0627-swap-sex-of-employees/) | Easy |
+| [1045-customers-who-bought-all-products](https://github.com/Benin7070/LeetCode/tree/main/1045-customers-who-bought-all-products/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
