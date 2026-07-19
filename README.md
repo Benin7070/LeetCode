@@ -90,6 +90,7 @@ https://leetcode.com/u/BENIN5050
 | [0088-merge-sorted-array](https://github.com/Benin7070/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0118-pascals-triangle](https://github.com/Benin7070/LeetCode/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Benin7070/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Benin7070/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0169-majority-element](https://github.com/Benin7070/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/Benin7070/LeetCode/tree/main/0229-majority-element-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Benin7070/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -332,6 +333,7 @@ https://leetcode.com/u/BENIN5050
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Benin7070/LeetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Benin7070/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0278-first-bad-version](https://github.com/Benin7070/LeetCode/tree/main/0278-first-bad-version/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Benin7070/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0374-guess-number-higher-or-lower](https://github.com/Benin7070/LeetCode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
