@@ -85,6 +85,7 @@ https://leetcode.com/u/BENIN5050
 | [0074-search-a-2d-matrix](https://github.com/Benin7070/LeetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/Benin7070/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/Benin7070/LeetCode/tree/main/0078-subsets/) | Medium |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Benin7070/LeetCode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Benin7070/LeetCode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/Benin7070/LeetCode/tree/main/0085-maximal-rectangle/) | Hard |
 | [0088-merge-sorted-array](https://github.com/Benin7070/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
@@ -333,6 +334,7 @@ https://leetcode.com/u/BENIN5050
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Benin7070/LeetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Benin7070/LeetCode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Benin7070/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0278-first-bad-version](https://github.com/Benin7070/LeetCode/tree/main/0278-first-bad-version/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Benin7070/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
