@@ -3,7 +3,7 @@ class Solution:
         res=0
         m=len(grid[0])
         for i in grid:
-            print(i)
+
             l=0
             r=m-1
             if i[l]<0:
@@ -13,13 +13,11 @@ class Solution:
                 continue
             while l<r:
                 mid=(l+r)//2
-                print(i[mid])
                 if i[mid]>=0:
                     l=mid+1
                 elif i[mid]<0:
-                    print(res)
+
                     res+=((r-mid)+1)
-                    print(res)
                     r=mid-1
 
                 
