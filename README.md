@@ -326,6 +326,7 @@ https://leetcode.com/u/BENIN5050
 | [0627-swap-sex-of-employees](https://github.com/Benin7070/LeetCode/tree/main/0627-swap-sex-of-employees/) | Easy |
 | [1045-customers-who-bought-all-products](https://github.com/Benin7070/LeetCode/tree/main/1045-customers-who-bought-all-products/) | Medium |
 | [1148-article-views-i](https://github.com/Benin7070/LeetCode/tree/main/1148-article-views-i/) | Easy |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Benin7070/LeetCode/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1683-invalid-tweets](https://github.com/Benin7070/LeetCode/tree/main/1683-invalid-tweets/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/Benin7070/LeetCode/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 ## Divide and Conquer
