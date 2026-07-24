@@ -238,6 +238,7 @@ https://leetcode.com/u/BENIN5050
 | [0169-majority-element](https://github.com/Benin7070/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/Benin7070/LeetCode/tree/main/0229-majority-element-ii/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Benin7070/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0981-time-based-key-value-store](https://github.com/Benin7070/LeetCode/tree/main/0981-time-based-key-value-store/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/Benin7070/LeetCode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -269,10 +270,12 @@ https://leetcode.com/u/BENIN5050
 | [0402-remove-k-digits](https://github.com/Benin7070/LeetCode/tree/main/0402-remove-k-digits/) | Medium |
 | [0412-fizz-buzz](https://github.com/Benin7070/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
 | [0556-next-greater-element-iii](https://github.com/Benin7070/LeetCode/tree/main/0556-next-greater-element-iii/) | Medium |
+| [0981-time-based-key-value-store](https://github.com/Benin7070/LeetCode/tree/main/0981-time-based-key-value-store/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/Benin7070/LeetCode/tree/main/0155-min-stack/) | Medium |
+| [0981-time-based-key-value-store](https://github.com/Benin7070/LeetCode/tree/main/0981-time-based-key-value-store/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -354,6 +357,7 @@ https://leetcode.com/u/BENIN5050
 | [0540-single-element-in-a-sorted-array](https://github.com/Benin7070/LeetCode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Benin7070/LeetCode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Benin7070/LeetCode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [0981-time-based-key-value-store](https://github.com/Benin7070/LeetCode/tree/main/0981-time-based-key-value-store/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Benin7070/LeetCode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1539-kth-missing-positive-number](https://github.com/Benin7070/LeetCode/tree/main/1539-kth-missing-positive-number/) | Easy |
 ## Memoization
