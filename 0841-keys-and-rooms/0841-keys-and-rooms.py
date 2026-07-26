@@ -2,11 +2,11 @@ class Solution:
     def canVisitAllRooms(self, rooms: List[List[int]]) -> bool:
         if not rooms:
             return None
-        visited=[]
+        visited=set()
         ttl_rooms=len(rooms)
         
         def visit(room):
-            visited.append(room)
+            visited.add(room)
 
             for key in rooms[room]:
                 if key not in visited:
