@@ -1,1 +1,1 @@
-select query_name,round(sum(rating/position)/count(*),2) as quality, round((count(case when rating<3 then 1 end)/count(*))*100,2) as poor_query_percentage  from Queries group by query_name;
+select query_name,round(sum(rating/position)/count(*),2) as quality, round(avg(rating<3)*100,2) as poor_query_percentage  from Queries group by query_name;
