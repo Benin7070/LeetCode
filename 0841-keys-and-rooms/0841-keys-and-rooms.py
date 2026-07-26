@@ -13,8 +13,4 @@ class Solution:
                     visit(key)
 
         visit(0)
-
-        print(visited)
-        
-        print(ttl_rooms)
         return ttl_rooms==len(visited)
