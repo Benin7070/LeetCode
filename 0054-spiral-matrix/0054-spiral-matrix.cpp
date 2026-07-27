@@ -12,25 +12,21 @@ public:
         vector<int> res={};
         while (left<=right && top<=bottom){
             for(int i=left;i<=right;i++){
-                 cout<<m[top][i]<<" ";
                  res.push_back(m[top][i]);
             }
             top++;
             for(int i=top;i<=bottom;i++){
-                cout<<m[i][right]<<" ";
                 res.push_back(m[i][right]);
             }
             right--;
             if(top<=bottom){
                 for(int i=right;i>=left;i--){
-                    cout<<m[bottom][i]<<" ";
                     res.push_back(m[bottom][i]);
                 }
             }
             bottom--;
             if(left<=right){
                 for(int i=bottom;i>=top;i--){
-                    cout<<m[i][left]<<" ";
                     res.push_back(m[i][left]);
                 }
             }
