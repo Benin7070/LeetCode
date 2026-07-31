@@ -340,6 +340,7 @@ https://leetcode.com/u/BENIN5050
 | [0627-swap-sex-of-employees](https://github.com/Benin7070/LeetCode/tree/main/0627-swap-sex-of-employees/) | Easy |
 | [1045-customers-who-bought-all-products](https://github.com/Benin7070/LeetCode/tree/main/1045-customers-who-bought-all-products/) | Medium |
 | [1068-product-sales-analysis-i](https://github.com/Benin7070/LeetCode/tree/main/1068-product-sales-analysis-i/) | Easy |
+| [1070-product-sales-analysis-iii](https://github.com/Benin7070/LeetCode/tree/main/1070-product-sales-analysis-iii/) | Medium |
 | [1075-project-employees-i](https://github.com/Benin7070/LeetCode/tree/main/1075-project-employees-i/) | Easy |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/Benin7070/LeetCode/tree/main/1141-user-activity-for-the-past-30-days-i/) | Easy |
 | [1148-article-views-i](https://github.com/Benin7070/LeetCode/tree/main/1148-article-views-i/) | Easy |
