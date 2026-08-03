@@ -8,7 +8,6 @@ public:
             ttl+=nums[i];
             if (hashmap.find(ttl-k)!=hashmap.end()){
                     res += hashmap[ttl - k];
-                    cout<<hashmap[ttl-k]<<" ";
             }
             hashmap[ttl]++;
         }
