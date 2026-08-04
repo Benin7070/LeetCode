@@ -349,6 +349,7 @@ https://leetcode.com/u/BENIN5050
 | [1164-product-price-at-a-given-date](https://github.com/Benin7070/LeetCode/tree/main/1164-product-price-at-a-given-date/) | Medium |
 | [1174-immediate-food-delivery-ii](https://github.com/Benin7070/LeetCode/tree/main/1174-immediate-food-delivery-ii/) | Medium |
 | [1193-monthly-transactions-i](https://github.com/Benin7070/LeetCode/tree/main/1193-monthly-transactions-i/) | Medium |
+| [1204-last-person-to-fit-in-the-bus](https://github.com/Benin7070/LeetCode/tree/main/1204-last-person-to-fit-in-the-bus/) | Medium |
 | [1211-queries-quality-and-percentage](https://github.com/Benin7070/LeetCode/tree/main/1211-queries-quality-and-percentage/) | Easy |
 | [1251-average-selling-price](https://github.com/Benin7070/LeetCode/tree/main/1251-average-selling-price/) | Easy |
 | [1280-students-and-examinations](https://github.com/Benin7070/LeetCode/tree/main/1280-students-and-examinations/) | Easy |
