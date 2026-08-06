@@ -102,6 +102,7 @@ https://leetcode.com/u/BENIN5050
 | [0560-subarray-sum-equals-k](https://github.com/Benin7070/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Benin7070/LeetCode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Benin7070/LeetCode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [0918-maximum-sum-circular-subarray](https://github.com/Benin7070/LeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Benin7070/LeetCode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1539-kth-missing-positive-number](https://github.com/Benin7070/LeetCode/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Benin7070/LeetCode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -116,6 +117,7 @@ https://leetcode.com/u/BENIN5050
 | [0096-unique-binary-search-trees](https://github.com/Benin7070/LeetCode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0118-pascals-triangle](https://github.com/Benin7070/LeetCode/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Benin7070/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0918-maximum-sum-circular-subarray](https://github.com/Benin7070/LeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -372,6 +374,7 @@ https://leetcode.com/u/BENIN5050
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Benin7070/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/Benin7070/LeetCode/tree/main/0169-majority-element/) | Easy |
+| [0918-maximum-sum-circular-subarray](https://github.com/Benin7070/LeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -420,4 +423,12 @@ https://leetcode.com/u/BENIN5050
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Benin7070/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Benin7070/LeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Benin7070/LeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 <!---LeetCode Topics End-->
