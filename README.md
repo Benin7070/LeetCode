@@ -360,6 +360,7 @@ https://leetcode.com/u/BENIN5050
 | [1211-queries-quality-and-percentage](https://github.com/Benin7070/LeetCode/tree/main/1211-queries-quality-and-percentage/) | Easy |
 | [1251-average-selling-price](https://github.com/Benin7070/LeetCode/tree/main/1251-average-selling-price/) | Easy |
 | [1280-students-and-examinations](https://github.com/Benin7070/LeetCode/tree/main/1280-students-and-examinations/) | Easy |
+| [1321-restaurant-growth](https://github.com/Benin7070/LeetCode/tree/main/1321-restaurant-growth/) | Medium |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Benin7070/LeetCode/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Benin7070/LeetCode/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/Benin7070/LeetCode/tree/main/1633-percentage-of-users-attended-a-contest/) | Easy |
