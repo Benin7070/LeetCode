@@ -365,6 +365,7 @@ https://leetcode.com/u/BENIN5050
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Benin7070/LeetCode/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/Benin7070/LeetCode/tree/main/1633-percentage-of-users-attended-a-contest/) | Easy |
 | [1661-average-time-of-process-per-machine](https://github.com/Benin7070/LeetCode/tree/main/1661-average-time-of-process-per-machine/) | Easy |
+| [1667-fix-names-in-a-table](https://github.com/Benin7070/LeetCode/tree/main/1667-fix-names-in-a-table/) | Easy |
 | [1683-invalid-tweets](https://github.com/Benin7070/LeetCode/tree/main/1683-invalid-tweets/) | Easy |
 | [1729-find-followers-count](https://github.com/Benin7070/LeetCode/tree/main/1729-find-followers-count/) | Easy |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/Benin7070/LeetCode/tree/main/1731-the-number-of-employees-which-report-to-each-employee/) | Easy |
