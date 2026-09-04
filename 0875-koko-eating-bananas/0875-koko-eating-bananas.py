@@ -15,7 +15,6 @@ class Solution:
 
         while l<=r:
             mid=(l+r)//2
-            print("mid",mid,l,r)
             if check(mid):
                 res_final=mid
                 r=mid-1
