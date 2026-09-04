@@ -8,7 +8,7 @@ class Solution:
         def check(i):
             res=0
             for j in piles:
-                res+=math.ceil(j/i)
+                res+=(j + i - 1) // i
             if res<=h:
                 return True
             return False
