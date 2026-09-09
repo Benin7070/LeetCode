@@ -98,6 +98,7 @@ https://leetcode.com/u/BENIN5050
 | [0169-majority-element](https://github.com/Benin7070/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/Benin7070/LeetCode/tree/main/0229-majority-element-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Benin7070/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0410-split-array-largest-sum](https://github.com/Benin7070/LeetCode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0493-reverse-pairs](https://github.com/Benin7070/LeetCode/tree/main/0493-reverse-pairs/) | Hard |
 | [0496-next-greater-element-i](https://github.com/Benin7070/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Benin7070/LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
@@ -124,6 +125,7 @@ https://leetcode.com/u/BENIN5050
 | [0096-unique-binary-search-trees](https://github.com/Benin7070/LeetCode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0118-pascals-triangle](https://github.com/Benin7070/LeetCode/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Benin7070/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0410-split-array-largest-sum](https://github.com/Benin7070/LeetCode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0918-maximum-sum-circular-subarray](https://github.com/Benin7070/LeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
@@ -302,6 +304,7 @@ https://leetcode.com/u/BENIN5050
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0402-remove-k-digits](https://github.com/Benin7070/LeetCode/tree/main/0402-remove-k-digits/) | Medium |
+| [0410-split-array-largest-sum](https://github.com/Benin7070/LeetCode/tree/main/0410-split-array-largest-sum/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -404,6 +407,7 @@ https://leetcode.com/u/BENIN5050
 | [0278-first-bad-version](https://github.com/Benin7070/LeetCode/tree/main/0278-first-bad-version/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Benin7070/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0374-guess-number-higher-or-lower](https://github.com/Benin7070/LeetCode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
+| [0410-split-array-largest-sum](https://github.com/Benin7070/LeetCode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0441-arranging-coins](https://github.com/Benin7070/LeetCode/tree/main/0441-arranging-coins/) | Easy |
 | [0493-reverse-pairs](https://github.com/Benin7070/LeetCode/tree/main/0493-reverse-pairs/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/Benin7070/LeetCode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
@@ -447,6 +451,7 @@ https://leetcode.com/u/BENIN5050
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0410-split-array-largest-sum](https://github.com/Benin7070/LeetCode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0560-subarray-sum-equals-k](https://github.com/Benin7070/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
