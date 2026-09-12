@@ -114,6 +114,7 @@ https://leetcode.com/u/BENIN5050
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Benin7070/LeetCode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Benin7070/LeetCode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/Benin7070/LeetCode/tree/main/1539-kth-missing-positive-number/) | Easy |
+| [1901-find-a-peak-element-ii](https://github.com/Benin7070/LeetCode/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Benin7070/LeetCode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/Benin7070/LeetCode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Benin7070/LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -320,6 +321,7 @@ https://leetcode.com/u/BENIN5050
 | [0085-maximal-rectangle](https://github.com/Benin7070/LeetCode/tree/main/0085-maximal-rectangle/) | Hard |
 | [0240-search-a-2d-matrix-ii](https://github.com/Benin7070/LeetCode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Benin7070/LeetCode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
+| [1901-find-a-peak-element-ii](https://github.com/Benin7070/LeetCode/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/Benin7070/LeetCode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -427,6 +429,7 @@ https://leetcode.com/u/BENIN5050
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Benin7070/LeetCode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Benin7070/LeetCode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/Benin7070/LeetCode/tree/main/1539-kth-missing-positive-number/) | Easy |
+| [1901-find-a-peak-element-ii](https://github.com/Benin7070/LeetCode/tree/main/1901-find-a-peak-element-ii/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
