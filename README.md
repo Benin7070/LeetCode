@@ -231,6 +231,7 @@ https://leetcode.com/u/BENIN5050
 | [0441-arranging-coins](https://github.com/Benin7070/LeetCode/tree/main/0441-arranging-coins/) | Easy |
 | [0445-add-two-numbers-ii](https://github.com/Benin7070/LeetCode/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0556-next-greater-element-iii](https://github.com/Benin7070/LeetCode/tree/main/0556-next-greater-element-iii/) | Medium |
+| [0836-rectangle-overlap](https://github.com/Benin7070/LeetCode/tree/main/0836-rectangle-overlap/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/Benin7070/LeetCode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -497,4 +498,8 @@ https://leetcode.com/u/BENIN5050
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/Benin7070/LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/Benin7070/LeetCode/tree/main/0836-rectangle-overlap/) | Easy |
 <!---LeetCode Topics End-->
