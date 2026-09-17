@@ -113,6 +113,7 @@ https://leetcode.com/u/BENIN5050
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Benin7070/LeetCode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Benin7070/LeetCode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Benin7070/LeetCode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Benin7070/LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Benin7070/LeetCode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/Benin7070/LeetCode/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1901-find-a-peak-element-ii](https://github.com/Benin7070/LeetCode/tree/main/1901-find-a-peak-element-ii/) | Medium |
@@ -131,6 +132,7 @@ https://leetcode.com/u/BENIN5050
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Benin7070/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/Benin7070/LeetCode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0918-maximum-sum-circular-subarray](https://github.com/Benin7070/LeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Benin7070/LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Benin7070/LeetCode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Tree
 | Problem Name | Difficulty |
@@ -272,6 +274,7 @@ https://leetcode.com/u/BENIN5050
 | [0496-next-greater-element-i](https://github.com/Benin7070/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Benin7070/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/Benin7070/LeetCode/tree/main/0981-time-based-key-value-store/) | Medium |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Benin7070/LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/Benin7070/LeetCode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Benin7070/LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Monotonic Stack
@@ -442,6 +445,7 @@ https://leetcode.com/u/BENIN5050
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Benin7070/LeetCode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Benin7070/LeetCode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Benin7070/LeetCode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Benin7070/LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Benin7070/LeetCode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/Benin7070/LeetCode/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1901-find-a-peak-element-ii](https://github.com/Benin7070/LeetCode/tree/main/1901-find-a-peak-element-ii/) | Medium |
@@ -522,4 +526,8 @@ https://leetcode.com/u/BENIN5050
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0796-rotate-string](https://github.com/Benin7070/LeetCode/tree/main/0796-rotate-string/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Benin7070/LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 <!---LeetCode Topics End-->
