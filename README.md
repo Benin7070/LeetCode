@@ -223,6 +223,7 @@ https://leetcode.com/u/BENIN5050
 | [0088-merge-sorted-array](https://github.com/Benin7070/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/Benin7070/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/Benin7070/LeetCode/tree/main/0229-majority-element-ii/) | Medium |
+| [0451-sort-characters-by-frequency](https://github.com/Benin7070/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -271,6 +272,7 @@ https://leetcode.com/u/BENIN5050
 | [0169-majority-element](https://github.com/Benin7070/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0205-isomorphic-strings](https://github.com/Benin7070/LeetCode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0229-majority-element-ii](https://github.com/Benin7070/LeetCode/tree/main/0229-majority-element-ii/) | Medium |
+| [0451-sort-characters-by-frequency](https://github.com/Benin7070/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Benin7070/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Benin7070/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/Benin7070/LeetCode/tree/main/0981-time-based-key-value-store/) | Medium |
@@ -309,6 +311,7 @@ https://leetcode.com/u/BENIN5050
 | [0205-isomorphic-strings](https://github.com/Benin7070/LeetCode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0402-remove-k-digits](https://github.com/Benin7070/LeetCode/tree/main/0402-remove-k-digits/) | Medium |
 | [0412-fizz-buzz](https://github.com/Benin7070/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
+| [0451-sort-characters-by-frequency](https://github.com/Benin7070/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0556-next-greater-element-iii](https://github.com/Benin7070/LeetCode/tree/main/0556-next-greater-element-iii/) | Medium |
 | [0796-rotate-string](https://github.com/Benin7070/LeetCode/tree/main/0796-rotate-string/) | Easy |
 | [0981-time-based-key-value-store](https://github.com/Benin7070/LeetCode/tree/main/0981-time-based-key-value-store/) | Medium |
@@ -458,6 +461,7 @@ https://leetcode.com/u/BENIN5050
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Benin7070/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/Benin7070/LeetCode/tree/main/0229-majority-element-ii/) | Medium |
+| [0451-sort-characters-by-frequency](https://github.com/Benin7070/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -530,4 +534,12 @@ https://leetcode.com/u/BENIN5050
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Benin7070/LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Benin7070/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Benin7070/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 <!---LeetCode Topics End-->
