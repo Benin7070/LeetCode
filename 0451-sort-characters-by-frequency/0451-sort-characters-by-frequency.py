@@ -5,8 +5,6 @@ class Solution:
         for i in s:
             freq[i]=freq.get(i,0)+1
 
-        print(freq)
-
         res=""
         sorted_freq = dict(sorted(freq.items(), key=lambda item: item[1],reverse=True))
 
