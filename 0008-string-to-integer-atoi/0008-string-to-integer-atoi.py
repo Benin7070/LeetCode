@@ -21,7 +21,7 @@ class Solution:
                     break
             else:
                 break
-            print(res)
+
 
         if neg:
             res*=-1
