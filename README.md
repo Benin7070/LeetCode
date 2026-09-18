@@ -306,6 +306,7 @@ https://leetcode.com/u/BENIN5050
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0008-string-to-integer-atoi](https://github.com/Benin7070/LeetCode/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0020-valid-parentheses](https://github.com/Benin7070/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Benin7070/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0165-compare-version-numbers](https://github.com/Benin7070/LeetCode/tree/main/0165-compare-version-numbers/) | Medium |
