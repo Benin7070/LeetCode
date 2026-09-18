@@ -196,6 +196,7 @@ https://leetcode.com/u/BENIN5050
 | [0496-next-greater-element-i](https://github.com/Benin7070/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Benin7070/LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/Benin7070/LeetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Benin7070/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -316,6 +317,7 @@ https://leetcode.com/u/BENIN5050
 | [0796-rotate-string](https://github.com/Benin7070/LeetCode/tree/main/0796-rotate-string/) | Easy |
 | [0981-time-based-key-value-store](https://github.com/Benin7070/LeetCode/tree/main/0981-time-based-key-value-store/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/Benin7070/LeetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Benin7070/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Benin7070/LeetCode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Benin7070/LeetCode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Design
@@ -526,6 +528,7 @@ https://leetcode.com/u/BENIN5050
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Benin7070/LeetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Benin7070/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
