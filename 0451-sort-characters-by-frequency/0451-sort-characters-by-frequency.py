@@ -8,7 +8,7 @@ class Solution:
         print(freq)
 
         res=""
-        sorted_freq = dict(sorted(freq.items(), key=lambda item: (item[1], item[0]),reverse=True))
+        sorted_freq = dict(sorted(freq.items(), key=lambda item: item[1],reverse=True))
 
         for i in sorted_freq.items():
             res+=i[0]*i[1]
