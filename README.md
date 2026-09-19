@@ -279,6 +279,7 @@ https://leetcode.com/u/BENIN5050
 | [0560-subarray-sum-equals-k](https://github.com/Benin7070/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/Benin7070/LeetCode/tree/main/0981-time-based-key-value-store/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Benin7070/LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Benin7070/LeetCode/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/Benin7070/LeetCode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Benin7070/LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Monotonic Stack
@@ -320,6 +321,7 @@ https://leetcode.com/u/BENIN5050
 | [0981-time-based-key-value-store](https://github.com/Benin7070/LeetCode/tree/main/0981-time-based-key-value-store/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/Benin7070/LeetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Benin7070/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Benin7070/LeetCode/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/Benin7070/LeetCode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Benin7070/LeetCode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Design
@@ -466,6 +468,7 @@ https://leetcode.com/u/BENIN5050
 | [0169-majority-element](https://github.com/Benin7070/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/Benin7070/LeetCode/tree/main/0229-majority-element-ii/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Benin7070/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Benin7070/LeetCode/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
