@@ -2,21 +2,16 @@ class Solution:
     def reverseWords(self, s: str) -> str:
         res=""
         curr=""
+        words=[]
         for i in s:
             if i!=" ":
                 curr+=i
             else:
                 if curr!="":
-                    if res=="":
-                        res=curr
-                    else:
-                        res=curr+" "+res
-                    
+                    words.append(curr)
                     curr=""
-        if curr!="":
-            if res=="":
-                res=curr
-            else:
-                res=curr+" "+res
-        
-        return res
+
+        if curr:
+                words.append(curr)
+
+        return " ".join(words[::-1])
