@@ -8,37 +8,40 @@ class Solution:
         if not head or k == 1:
             return head
         
+        def reverse(head):
+            curr=head
+            prev=None
+            while curr!=None:
+                next_node=curr.next
+                curr.next=prev
+                prev=curr
+                curr=next_node
+                
+            return prev
+
         dummy = ListNode(0)
         dummy.next = head
-        
-        groupPrev = dummy
-        
-        while True:
-            kth = self.getKthNode(groupPrev, k)
-            if not kth:
-                break  
-                
-            groupNext = kth.next
-            
-            
-            prev = kth.next  
-            curr = groupPrev.next
-            
-            while curr != groupNext:
-                nxt = curr.next
-                curr.next = prev
-                prev = curr
-                curr = nxt
-                
-            
-            tmp = groupPrev.next  
-            groupPrev.next = kth  
-            groupPrev = tmp       
-            
-        return dummy.next
+        prev_group = dummy
+        curr = head
 
-    def getKthNode(self, curr: ListNode | None, k: int) -> ListNode | None:
-        while curr and k > 0:
-            curr = curr.next
-            k -= 1
-        return curr
+        while curr:
+            end = curr                      
+
+            for i in range(k - 1):       
+                if end.next==None:
+                    return dummy.next
+                end = end.next
+
+            next_node = end.next
+            end.next = None
+
+            r = reverse(curr)
+
+            prev_group.next = r            
+            curr.next = next_node
+
+
+            prev_group = curr
+            curr = next_node
+
+        return dummy.next
