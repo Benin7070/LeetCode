@@ -121,6 +121,7 @@ https://leetcode.com/u/BENIN5050
 | [2965-find-missing-and-repeated-values](https://github.com/Benin7070/LeetCode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Benin7070/LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3524-find-x-value-of-array-i](https://github.com/Benin7070/LeetCode/tree/main/3524-find-x-value-of-array-i/) | Medium |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Benin7070/LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -246,6 +247,7 @@ https://leetcode.com/u/BENIN5050
 | [1903-largest-odd-number-in-string](https://github.com/Benin7070/LeetCode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/Benin7070/LeetCode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3524-find-x-value-of-array-i](https://github.com/Benin7070/LeetCode/tree/main/3524-find-x-value-of-array-i/) | Medium |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Benin7070/LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
