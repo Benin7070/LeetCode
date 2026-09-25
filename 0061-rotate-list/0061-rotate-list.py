@@ -12,11 +12,11 @@ class Solution:
         while temp.next!=None:
             n+=1
             temp=temp.next
-
-        if k==n or n==1 or (k%n)==0:
+        i=(k%n)
+        if k==n or n==1 or i==0:
             return head
-        i=n-(k%n)
-        print(i,n) 
+        i=n-i
+
         curr=head
         for j in range(i-1):
             curr=curr.next
