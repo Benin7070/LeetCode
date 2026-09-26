@@ -7,28 +7,41 @@ class Solution:
     def mergeKLists(self, lists):
         if not lists:
             return None
+        
+        start=None
+        n=len(lists)
+        for i in range(n):
+            if lists[i]:
+                res=lists[i]
+                start=i
+                break
+        if start==None:
+            return None
 
-        res = lists[0]
-
-        for i in range(1, len(lists)):
+        for i in range(start+1, n):
+            if not lists[i]:
+                continue
             curr = lists[i]
+            res_p=res
+            res_p_prev=None
+            while curr and res_p:
+                if curr.val<=res_p.val:
+                    nxt=curr.next
+                    if res_p_prev==None:
+                        curr.next=res_p
+                        res=curr
+                        res_p_prev=curr
+                    else:
+                        curr.next=res_p
+                        res_p_prev.next=curr
+                        res_p_prev=curr
+                    curr=nxt
 
-            while curr:
-                nxt = curr.next 
-                res_p = res  
-                res_p_prev = None
+                else:
+                    res_p_prev=res_p
+                    res_p=res_p.next
 
-                while res_p and res_p.val < curr.val:
-                    res_p_prev = res_p
-                    res_p = res_p.next
-
-                if res_p_prev is None:  
-                    curr.next = res
-                    res = curr
-                else:                  
-                    curr.next = res_p
-                    res_p_prev.next = curr
-
-                curr = nxt
+            if curr:
+                res_p_prev.next=curr
 
         return res
