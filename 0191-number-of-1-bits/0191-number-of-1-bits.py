@@ -3,7 +3,7 @@ class Solution:
         res=0
         while n:
             print(n)
-            if n%2!=0:
+            if (n&1)!=0:
                 res+=1
             n=n>>1
         return res
