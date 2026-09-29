@@ -255,6 +255,7 @@ https://leetcode.com/u/BENIN5050
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/Benin7070/LeetCode/tree/main/0078-subsets/) | Medium |
+| [0191-number-of-1-bits](https://github.com/Benin7070/LeetCode/tree/main/0191-number-of-1-bits/) | Easy |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Benin7070/LeetCode/tree/main/0201-bitwise-and-of-numbers-range/) | Medium |
 | [0231-power-of-two](https://github.com/Benin7070/LeetCode/tree/main/0231-power-of-two/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Benin7070/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -451,6 +452,7 @@ https://leetcode.com/u/BENIN5050
 | [0053-maximum-subarray](https://github.com/Benin7070/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0148-sort-list](https://github.com/Benin7070/LeetCode/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/Benin7070/LeetCode/tree/main/0169-majority-element/) | Easy |
+| [0191-number-of-1-bits](https://github.com/Benin7070/LeetCode/tree/main/0191-number-of-1-bits/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/Benin7070/LeetCode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0493-reverse-pairs](https://github.com/Benin7070/LeetCode/tree/main/0493-reverse-pairs/) | Hard |
 | [0918-maximum-sum-circular-subarray](https://github.com/Benin7070/LeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
