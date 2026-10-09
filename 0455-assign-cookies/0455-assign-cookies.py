@@ -1,8 +1,7 @@
 class Solution:
     def findContentChildren(self, g: list[int], s: list[int]) -> int:
         res=0
-        j=0
-        n=len(s)
+
         g=sorted(g)
         s=sorted(s)
 
