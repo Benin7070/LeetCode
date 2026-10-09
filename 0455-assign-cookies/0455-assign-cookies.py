@@ -2,8 +2,8 @@ class Solution:
     def findContentChildren(self, g: list[int], s: list[int]) -> int:
         res=0
 
-        g=sorted(g)
-        s=sorted(s)
+        g.sort()
+        s.sort()
 
         i=j=0
         while i<len(g) and j<len(s):
