@@ -103,6 +103,7 @@ https://leetcode.com/u/BENIN5050
 | [0260-single-number-iii](https://github.com/Benin7070/LeetCode/tree/main/0260-single-number-iii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Benin7070/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Benin7070/LeetCode/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0455-assign-cookies](https://github.com/Benin7070/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0493-reverse-pairs](https://github.com/Benin7070/LeetCode/tree/main/0493-reverse-pairs/) | Hard |
 | [0496-next-greater-element-i](https://github.com/Benin7070/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Benin7070/LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
@@ -220,6 +221,7 @@ https://leetcode.com/u/BENIN5050
 | [0165-compare-version-numbers](https://github.com/Benin7070/LeetCode/tree/main/0165-compare-version-numbers/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Benin7070/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Benin7070/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0455-assign-cookies](https://github.com/Benin7070/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0556-next-greater-element-iii](https://github.com/Benin7070/LeetCode/tree/main/0556-next-greater-element-iii/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Benin7070/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Benin7070/LeetCode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
@@ -235,6 +237,7 @@ https://leetcode.com/u/BENIN5050
 | [0169-majority-element](https://github.com/Benin7070/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/Benin7070/LeetCode/tree/main/0229-majority-element-ii/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Benin7070/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0455-assign-cookies](https://github.com/Benin7070/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -362,6 +365,7 @@ https://leetcode.com/u/BENIN5050
 | ------- | ------- |
 | [0402-remove-k-digits](https://github.com/Benin7070/LeetCode/tree/main/0402-remove-k-digits/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Benin7070/LeetCode/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0455-assign-cookies](https://github.com/Benin7070/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Benin7070/LeetCode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Benin7070/LeetCode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Matrix
@@ -590,4 +594,8 @@ https://leetcode.com/u/BENIN5050
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Benin7070/LeetCode/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0455-assign-cookies](https://github.com/Benin7070/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 <!---LeetCode Topics End-->
