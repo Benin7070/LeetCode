@@ -1,13 +1,13 @@
 {
   "leetcode": {
+    "solved": 1,
     "easy": 0,
-    "hard": 0,
     "medium": 1,
+    "hard": 0,
     "shas": {
       "0904-fruit-into-baskets": {
         "0904-fruit-into-baskets.py": "1e382602050806ad6bb7a6b723a33dce3bd760eb"
       }
-    },
-    "solved": 1
+    }
   }
 }
