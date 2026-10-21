@@ -114,6 +114,7 @@ https://leetcode.com/u/BENIN5050
 | [0852-peak-index-in-a-mountain-array](https://github.com/Benin7070/LeetCode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0860-lemonade-change](https://github.com/Benin7070/LeetCode/tree/main/0860-lemonade-change/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/Benin7070/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/Benin7070/LeetCode/tree/main/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Benin7070/LeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Benin7070/LeetCode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Benin7070/LeetCode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
@@ -126,55 +127,178 @@ https://leetcode.com/u/BENIN5050
 | [2965-find-missing-and-repeated-values](https://github.com/Benin7070/LeetCode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Benin7070/LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3524-find-x-value-of-array-i](https://github.com/Benin7070/LeetCode/tree/main/3524-find-x-value-of-array-i/) | Medium |
-| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Benin7070/LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
-## Dynamic Programming
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Benin7070/LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-
+
+## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0042-trapping-rain-water](https://github.com/Benin7070/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
-| [0053-maximum-subarray](https://github.com/Benin7070/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
-| [0070-climbing-stairs](https://github.com/Benin7070/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
-| [0085-maximal-rectangle](https://github.com/Benin7070/LeetCode/tree/main/0085-maximal-rectangle/) | Hard |
-| [0096-unique-binary-search-trees](https://github.com/Benin7070/LeetCode/tree/main/0096-unique-binary-search-trees/) | Medium |
-| [0118-pascals-triangle](https://github.com/Benin7070/LeetCode/tree/main/0118-pascals-triangle/) | Easy |
-| [0121-best-time-to-buy-and-sell-stock](https://github.com/Benin7070/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0078-subsets](https://github.com/Benin7070/LeetCode/tree/main/0078-subsets/) | Medium |
+
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0078-subsets](https://github.com/Benin7070/LeetCode/tree/main/0078-subsets/) | Medium |
+
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0078-subsets](https://github.com/Benin7070/LeetCode/tree/main/0078-subsets/) | Medium |
+| [0136-single-number](https://github.com/Benin7070/LeetCode/tree/main/0136-single-number/) | Easy |
+| [0137-single-number-ii](https://github.com/Benin7070/LeetCode/tree/main/0137-single-number-ii/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Benin7070/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0162-find-peak-element](https://github.com/Benin7070/LeetCode/tree/main/0162-find-peak-element/) | Medium |
+| [0169-majority-element](https://github.com/Benin7070/LeetCode/tree/main/0169-majority-element/) | Easy |
+| [0229-majority-element-ii](https://github.com/Benin7070/LeetCode/tree/main/0229-majority-element-ii/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/Benin7070/LeetCode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0260-single-number-iii](https://github.com/Benin7070/LeetCode/tree/main/0260-single-number-iii/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/Benin7070/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Benin7070/LeetCode/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0455-assign-cookies](https://github.com/Benin7070/LeetCode/tree/main/0455-assign-cookies/) | Easy |
+| [0493-reverse-pairs](https://github.com/Benin7070/LeetCode/tree/main/0493-reverse-pairs/) | Hard |
+| [0496-next-greater-element-i](https://github.com/Benin7070/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/Benin7070/LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0540-single-element-in-a-sorted-array](https://github.com/Benin7070/LeetCode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/Benin7070/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Benin7070/LeetCode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
+| [0835-image-overlap](https://github.com/Benin7070/LeetCode/tree/main/0835-image-overlap/) | Medium |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Benin7070/LeetCode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [0860-lemonade-change](https://github.com/Benin7070/LeetCode/tree/main/0860-lemonade-change/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/Benin7070/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/Benin7070/LeetCode/tree/main/0904-fruit-into-baskets) |
+| [0904-fruit-into-baskets](https://github.com/Benin7070/LeetCode/tree/main/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Benin7070/LeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Benin7070/LeetCode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Benin7070/LeetCode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Benin7070/LeetCode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Benin7070/LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
-| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Benin7070/LeetCode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Benin7070/LeetCode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
+| [1539-kth-missing-positive-number](https://github.com/Benin7070/LeetCode/tree/main/1539-kth-missing-positive-number/) | Easy |
+| [1901-find-a-peak-element-ii](https://github.com/Benin7070/LeetCode/tree/main/1901-find-a-peak-element-ii/) | Medium |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Benin7070/LeetCode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [2965-find-missing-and-repeated-values](https://github.com/Benin7070/LeetCode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/Benin7070/LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3524-find-x-value-of-array-i](https://github.com/Benin7070/LeetCode/tree/main/3524-find-x-value-of-array-i/) | Medium |
-## Tree
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Benin7070/LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-
+
+## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0094-binary-tree-inorder-traversal](https://github.com/Benin7070/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0078-subsets](https://github.com/Benin7070/LeetCode/tree/main/0078-subsets/) | Medium |
+| [0136-single-number](https://github.com/Benin7070/LeetCode/tree/main/0136-single-number/) | Easy |
+| [0137-single-number-ii](https://github.com/Benin7070/LeetCode/tree/main/0137-single-number-ii/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Benin7070/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0162-find-peak-element](https://github.com/Benin7070/LeetCode/tree/main/0162-find-peak-element/) | Medium |
+| [0169-majority-element](https://github.com/Benin7070/LeetCode/tree/main/0169-majority-element/) | Easy |
+| [0229-majority-element-ii](https://github.com/Benin7070/LeetCode/tree/main/0229-majority-element-ii/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/Benin7070/LeetCode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0260-single-number-iii](https://github.com/Benin7070/LeetCode/tree/main/0260-single-number-iii/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/Benin7070/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0410-split-array-largest-sum](https://github.com/Benin7070/LeetCode/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0455-assign-cookies](https://github.com/Benin7070/LeetCode/tree/main/0455-assign-cookies/) | Easy |
+| [0493-reverse-pairs](https://github.com/Benin7070/LeetCode/tree/main/0493-reverse-pairs/) | Hard |
+| [0496-next-greater-element-i](https://github.com/Benin7070/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/Benin7070/LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0540-single-element-in-a-sorted-array](https://github.com/Benin7070/LeetCode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/Benin7070/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Benin7070/LeetCode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
+| [0835-image-overlap](https://github.com/Benin7070/LeetCode/tree/main/0835-image-overlap/) | Medium |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Benin7070/LeetCode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [0860-lemonade-change](https://github.com/Benin7070/LeetCode/tree/main/0860-lemonade-change/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/Benin7070/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/Benin7070/LeetCode/tree/main/0904-fruit-into-baskets) |
+| [0904-fruit-into-baskets](https://github.com/Benin7070/LeetCode/tree/main/0904-fruit-into-baskets) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Benin7070/LeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Benin7070/LeetCode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Benin7070/LeetCode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Benin7070/LeetCode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Benin7070/LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Benin7070/LeetCode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
+| [1539-kth-missing-positive-number](https://github.com/Benin7070/LeetCode/tree/main/1539-kth-missing-positive-number/) | Easy |
+| [1901-find-a-peak-element-ii](https://github.com/Benin7070/LeetCode/tree/main/1901-find-a-peak-element-ii/) | Medium |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Benin7070/LeetCode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [2965-find-missing-and-repeated-values](https://github.com/Benin7070/LeetCode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/Benin7070/LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+| [3524-find-x-value-of-array-i](https://github.com/Benin7070/LeetCode/tree/main/3524-find-x-value-of-array-i/) | Medium |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Benin7070/LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-
+
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/Benin7070/LeetCode/tree/main/0493-reverse-pairs/) | Hard |
+
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/Benin7070/LeetCode/tree/main/0493-reverse-pairs/) | Hard |
+
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Benin7070/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/Benin7070/LeetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Benin7070/LeetCode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Benin7070/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0162-find-peak-element](https://github.com/Benin7070/LeetCode/tree/main/0162-find-peak-element/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/Benin7070/LeetCode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0278-first-bad-version](https://github.com/Benin7070/LeetCode/tree/main/0278-first-bad-version/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/Benin7070/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0374-guess-number-higher-or-lower](https://github.com/Benin7070/LeetCode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
+| [0410-split-array-largest-sum](https://github.com/Benin7070/LeetCode/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0441-arranging-coins](https://github.com/Benin7070/LeetCode/tree/main/0441-arranging-coins/) | Easy |
+| [0493-reverse-pairs](https://github.com/Benin7070/LeetCode/tree/main/0493-reverse-pairs/) | Hard |
+| [0540-single-element-in-a-sorted-array](https://github.com/Benin7070/LeetCode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Benin7070/LeetCode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Benin7070/LeetCode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/Benin7070/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
+| [0981-time-based-key-value-store](https://github.com/Benin7070/LeetCode/tree/main/0981-time-based-key-value-store/) | Medium |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Benin7070/LeetCode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Benin7070/LeetCode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Benin7070/LeetCode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Benin7070/LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Benin7070/LeetCode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
+| [1539-kth-missing-positive-number](https://github.com/Benin7070/LeetCode/tree/main/1539-kth-missing-positive-number/) | Easy |
+| [1901-find-a-peak-element-ii](https://github.com/Benin7070/LeetCode/tree/main/1901-find-a-peak-element-ii/) | Medium |
+
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Benin7070/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/Benin7070/LeetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Benin7070/LeetCode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Benin7070/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0162-find-peak-element](https://github.com/Benin7070/LeetCode/tree/main/0162-find-peak-element/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/Benin7070/LeetCode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0278-first-bad-version](https://github.com/Benin7070/LeetCode/tree/main/0278-first-bad-version/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/Benin7070/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0374-guess-number-higher-or-lower](https://github.com/Benin7070/LeetCode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
+| [0410-split-array-largest-sum](https://github.com/Benin7070/LeetCode/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0441-arranging-coins](https://github.com/Benin7070/LeetCode/tree/main/0441-arranging-coins/) | Easy |
+| [0493-reverse-pairs](https://github.com/Benin7070/LeetCode/tree/main/0493-reverse-pairs/) | Hard |
+| [0540-single-element-in-a-sorted-array](https://github.com/Benin7070/LeetCode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Benin7070/LeetCode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Benin7070/LeetCode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/Benin7070/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
+| [0981-time-based-key-value-store](https://github.com/Benin7070/LeetCode/tree/main/0981-time-based-key-value-store/) | Medium |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Benin7070/LeetCode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Benin7070/LeetCode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Benin7070/LeetCode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Benin7070/LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Benin7070/LeetCode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
+| [1539-kth-missing-positive-number](https://github.com/Benin7070/LeetCode/tree/main/1539-kth-missing-positive-number/) | Easy |
+| [1901-find-a-peak-element-ii](https://github.com/Benin7070/LeetCode/tree/main/1901-find-a-peak-element-ii/) | Medium |
+
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Benin7070/LeetCode/tree/main/0096-unique-binary-search-trees/) | Medium |
-| [0100-same-tree](https://github.com/Benin7070/LeetCode/tree/main/0100-same-tree/) | Easy |
-| [0101-symmetric-tree](https://github.com/Benin7070/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
-| [0144-binary-tree-preorder-traversal](https://github.com/Benin7070/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
-| [0145-binary-tree-postorder-traversal](https://github.com/Benin7070/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
-| [0199-binary-tree-right-side-view](https://github.com/Benin7070/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
-| [0513-find-bottom-left-tree-value](https://github.com/Benin7070/LeetCode/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Benin7070/LeetCode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
-## Depth-First Search
+
+## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0094-binary-tree-inorder-traversal](https://github.com/Benin7070/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
-| [0100-same-tree](https://github.com/Benin7070/LeetCode/tree/main/0100-same-tree/) | Easy |
-| [0101-symmetric-tree](https://github.com/Benin7070/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
-| [0144-binary-tree-preorder-traversal](https://github.com/Benin7070/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
-| [0145-binary-tree-postorder-traversal](https://github.com/Benin7070/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
-| [0199-binary-tree-right-side-view](https://github.com/Benin7070/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
-| [0513-find-bottom-left-tree-value](https://github.com/Benin7070/LeetCode/tree/main/0513-find-bottom-left-tree-value/) | Medium |
-| [0547-number-of-provinces](https://github.com/Benin7070/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
-| [0841-keys-and-rooms](https://github.com/Benin7070/LeetCode/tree/main/0841-keys-and-rooms/) | Medium |
-## Breadth-First Search
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0100-same-tree](https://github.com/Benin7070/LeetCode/tree/main/0100-same-tree/) | Easy |
-| [0101-symmetric-tree](https://github.com/Benin7070/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
-| [0199-binary-tree-right-side-view](https://github.com/Benin7070/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
-| [0513-find-bottom-left-tree-value](https://github.com/Benin7070/LeetCode/tree/main/0513-find-bottom-left-tree-value/) | Medium |
-| [0547-number-of-provinces](https://github.com/Benin7070/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
-| [0841-keys-and-rooms](https://github.com/Benin7070/LeetCode/tree/main/0841-keys-and-rooms/) | Medium |
+| [0096-unique-binary-search-trees](https://github.com/Benin7070/LeetCode/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Benin7070/LeetCode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -187,77 +311,46 @@ https://leetcode.com/u/BENIN5050
 | [0199-binary-tree-right-side-view](https://github.com/Benin7070/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0513-find-bottom-left-tree-value](https://github.com/Benin7070/LeetCode/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Benin7070/LeetCode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
-## Stack
+
+## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0020-valid-parentheses](https://github.com/Benin7070/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
-| [0042-trapping-rain-water](https://github.com/Benin7070/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
-| [0084-largest-rectangle-in-histogram](https://github.com/Benin7070/LeetCode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
-| [0085-maximal-rectangle](https://github.com/Benin7070/LeetCode/tree/main/0085-maximal-rectangle/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/Benin7070/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0096-unique-binary-search-trees](https://github.com/Benin7070/LeetCode/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0100-same-tree](https://github.com/Benin7070/LeetCode/tree/main/0100-same-tree/) | Easy |
+| [0101-symmetric-tree](https://github.com/Benin7070/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Benin7070/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Benin7070/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
-| [0155-min-stack](https://github.com/Benin7070/LeetCode/tree/main/0155-min-stack/) | Medium |
-| [0234-palindrome-linked-list](https://github.com/Benin7070/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
-| [0402-remove-k-digits](https://github.com/Benin7070/LeetCode/tree/main/0402-remove-k-digits/) | Medium |
-| [0445-add-two-numbers-ii](https://github.com/Benin7070/LeetCode/tree/main/0445-add-two-numbers-ii/) | Medium |
-| [0496-next-greater-element-i](https://github.com/Benin7070/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
-| [0503-next-greater-element-ii](https://github.com/Benin7070/LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
-| [1021-remove-outermost-parentheses](https://github.com/Benin7070/LeetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
-| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Benin7070/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
-## Two Pointers
+| [0199-binary-tree-right-side-view](https://github.com/Benin7070/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0513-find-bottom-left-tree-value](https://github.com/Benin7070/LeetCode/tree/main/0513-find-bottom-left-tree-value/) | Medium |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Benin7070/LeetCode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+
+## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0019-remove-nth-node-from-end-of-list](https://github.com/Benin7070/LeetCode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
-| [0031-next-permutation](https://github.com/Benin7070/LeetCode/tree/main/0031-next-permutation/) | Medium |
-| [0042-trapping-rain-water](https://github.com/Benin7070/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
-| [0061-rotate-list](https://github.com/Benin7070/LeetCode/tree/main/0061-rotate-list/) | Medium |
-| [0075-sort-colors](https://github.com/Benin7070/LeetCode/tree/main/0075-sort-colors/) | Medium |
-| [0088-merge-sorted-array](https://github.com/Benin7070/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
-| [0141-linked-list-cycle](https://github.com/Benin7070/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
-| [0142-linked-list-cycle-ii](https://github.com/Benin7070/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
-| [0148-sort-list](https://github.com/Benin7070/LeetCode/tree/main/0148-sort-list/) | Medium |
-| [0151-reverse-words-in-a-string](https://github.com/Benin7070/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
-| [0160-intersection-of-two-linked-lists](https://github.com/Benin7070/LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
-| [0165-compare-version-numbers](https://github.com/Benin7070/LeetCode/tree/main/0165-compare-version-numbers/) | Medium |
-| [0234-palindrome-linked-list](https://github.com/Benin7070/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
-| [0287-find-the-duplicate-number](https://github.com/Benin7070/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
-| [0455-assign-cookies](https://github.com/Benin7070/LeetCode/tree/main/0455-assign-cookies/) | Easy |
-| [0556-next-greater-element-iii](https://github.com/Benin7070/LeetCode/tree/main/0556-next-greater-element-iii/) | Medium |
-| [0876-middle-of-the-linked-list](https://github.com/Benin7070/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
-| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Benin7070/LeetCode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
-| [2149-rearrange-array-elements-by-sign](https://github.com/Benin7070/LeetCode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
-| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Benin7070/LeetCode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
-## Sorting
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0056-merge-intervals](https://github.com/Benin7070/LeetCode/tree/main/0056-merge-intervals/) | Medium |
-| [0075-sort-colors](https://github.com/Benin7070/LeetCode/tree/main/0075-sort-colors/) | Medium |
-| [0088-merge-sorted-array](https://github.com/Benin7070/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
-| [0148-sort-list](https://github.com/Benin7070/LeetCode/tree/main/0148-sort-list/) | Medium |
-| [0169-majority-element](https://github.com/Benin7070/LeetCode/tree/main/0169-majority-element/) | Easy |
-| [0229-majority-element-ii](https://github.com/Benin7070/LeetCode/tree/main/0229-majority-element-ii/) | Medium |
-| [0451-sort-characters-by-frequency](https://github.com/Benin7070/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
-| [0455-assign-cookies](https://github.com/Benin7070/LeetCode/tree/main/0455-assign-cookies/) | Easy |
-## Math
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0002-add-two-numbers](https://github.com/Benin7070/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
-| [0048-rotate-image](https://github.com/Benin7070/LeetCode/tree/main/0048-rotate-image/) | Medium |
-| [0050-powx-n](https://github.com/Benin7070/LeetCode/tree/main/0050-powx-n/) | Medium |
-| [0070-climbing-stairs](https://github.com/Benin7070/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
+| [0094-binary-tree-inorder-traversal](https://github.com/Benin7070/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0096-unique-binary-search-trees](https://github.com/Benin7070/LeetCode/tree/main/0096-unique-binary-search-trees/) | Medium |
-| [0231-power-of-two](https://github.com/Benin7070/LeetCode/tree/main/0231-power-of-two/) | Easy |
-| [0412-fizz-buzz](https://github.com/Benin7070/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
-| [0441-arranging-coins](https://github.com/Benin7070/LeetCode/tree/main/0441-arranging-coins/) | Easy |
-| [0445-add-two-numbers-ii](https://github.com/Benin7070/LeetCode/tree/main/0445-add-two-numbers-ii/) | Medium |
-| [0556-next-greater-element-iii](https://github.com/Benin7070/LeetCode/tree/main/0556-next-greater-element-iii/) | Medium |
-| [0836-rectangle-overlap](https://github.com/Benin7070/LeetCode/tree/main/0836-rectangle-overlap/) | Easy |
-| [1401-circle-and-rectangle-overlapping](https://github.com/Benin7070/LeetCode/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
-| [1903-largest-odd-number-in-string](https://github.com/Benin7070/LeetCode/tree/main/1903-largest-odd-number-in-string/) | Easy |
-| [2965-find-missing-and-repeated-values](https://github.com/Benin7070/LeetCode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
-| [3524-find-x-value-of-array-i](https://github.com/Benin7070/LeetCode/tree/main/3524-find-x-value-of-array-i/) | Medium |
-| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Benin7070/LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [0100-same-tree](https://github.com/Benin7070/LeetCode/tree/main/0100-same-tree/) | Easy |
+| [0101-symmetric-tree](https://github.com/Benin7070/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/Benin7070/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/Benin7070/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0199-binary-tree-right-side-view](https://github.com/Benin7070/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0513-find-bottom-left-tree-value](https://github.com/Benin7070/LeetCode/tree/main/0513-find-bottom-left-tree-value/) | Medium |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Benin7070/LeetCode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Benin7070/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0096-unique-binary-search-trees](https://github.com/Benin7070/LeetCode/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0100-same-tree](https://github.com/Benin7070/LeetCode/tree/main/0100-same-tree/) | Easy |
+| [0101-symmetric-tree](https://github.com/Benin7070/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/Benin7070/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/Benin7070/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0199-binary-tree-right-side-view](https://github.com/Benin7070/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0513-find-bottom-left-tree-value](https://github.com/Benin7070/LeetCode/tree/main/0513-find-bottom-left-tree-value/) | Medium |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Benin7070/LeetCode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -270,128 +363,119 @@ https://leetcode.com/u/BENIN5050
 | [0260-single-number-iii](https://github.com/Benin7070/LeetCode/tree/main/0260-single-number-iii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Benin7070/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Benin7070/LeetCode/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
-## Recursion
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0002-add-two-numbers](https://github.com/Benin7070/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
-| [0021-merge-two-sorted-lists](https://github.com/Benin7070/LeetCode/tree/main/0021-merge-two-sorted-lists/) | Easy |
-| [0025-reverse-nodes-in-k-group](https://github.com/Benin7070/LeetCode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
-| [0050-powx-n](https://github.com/Benin7070/LeetCode/tree/main/0050-powx-n/) | Medium |
-| [0206-reverse-linked-list](https://github.com/Benin7070/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
-| [0231-power-of-two](https://github.com/Benin7070/LeetCode/tree/main/0231-power-of-two/) | Easy |
-| [0234-palindrome-linked-list](https://github.com/Benin7070/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
-| [3483-unique-3-digit-even-numbers](https://github.com/Benin7070/LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
-## Backtracking
+
+## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/Benin7070/LeetCode/tree/main/0078-subsets/) | Medium |
-## Hash Table
+| [0136-single-number](https://github.com/Benin7070/LeetCode/tree/main/0136-single-number/) | Easy |
+| [0137-single-number-ii](https://github.com/Benin7070/LeetCode/tree/main/0137-single-number-ii/) | Medium |
+| [0191-number-of-1-bits](https://github.com/Benin7070/LeetCode/tree/main/0191-number-of-1-bits/) | Easy |
+| [0201-bitwise-and-of-numbers-range](https://github.com/Benin7070/LeetCode/tree/main/0201-bitwise-and-of-numbers-range/) | Medium |
+| [0231-power-of-two](https://github.com/Benin7070/LeetCode/tree/main/0231-power-of-two/) | Easy |
+| [0260-single-number-iii](https://github.com/Benin7070/LeetCode/tree/main/0260-single-number-iii/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/Benin7070/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/Benin7070/LeetCode/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
+
+## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0001-two-sum](https://github.com/Benin7070/LeetCode/tree/main/0001-two-sum/) | Easy |
-| [0073-set-matrix-zeroes](https://github.com/Benin7070/LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
-| [0138-copy-list-with-random-pointer](https://github.com/Benin7070/LeetCode/tree/main/0138-copy-list-with-random-pointer/) | Medium |
-| [0141-linked-list-cycle](https://github.com/Benin7070/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
-| [0142-linked-list-cycle-ii](https://github.com/Benin7070/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
-| [0160-intersection-of-two-linked-lists](https://github.com/Benin7070/LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
-| [0169-majority-element](https://github.com/Benin7070/LeetCode/tree/main/0169-majority-element/) | Easy |
-| [0205-isomorphic-strings](https://github.com/Benin7070/LeetCode/tree/main/0205-isomorphic-strings/) | Easy |
-| [0229-majority-element-ii](https://github.com/Benin7070/LeetCode/tree/main/0229-majority-element-ii/) | Medium |
-| [0451-sort-characters-by-frequency](https://github.com/Benin7070/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
-| [0496-next-greater-element-i](https://github.com/Benin7070/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
-| [0560-subarray-sum-equals-k](https://github.com/Benin7070/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
-| [0981-time-based-key-value-store](https://github.com/Benin7070/LeetCode/tree/main/0981-time-based-key-value-store/) | Medium |
-| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Benin7070/LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
-| [1781-sum-of-beauty-of-all-substrings](https://github.com/Benin7070/LeetCode/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
-| [2965-find-missing-and-repeated-values](https://github.com/Benin7070/LeetCode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
-| [3483-unique-3-digit-even-numbers](https://github.com/Benin7070/LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
-## Monotonic Stack
+| [0078-subsets](https://github.com/Benin7070/LeetCode/tree/main/0078-subsets/) | Medium |
+| [0136-single-number](https://github.com/Benin7070/LeetCode/tree/main/0136-single-number/) | Easy |
+| [0137-single-number-ii](https://github.com/Benin7070/LeetCode/tree/main/0137-single-number-ii/) | Medium |
+| [0191-number-of-1-bits](https://github.com/Benin7070/LeetCode/tree/main/0191-number-of-1-bits/) | Easy |
+| [0201-bitwise-and-of-numbers-range](https://github.com/Benin7070/LeetCode/tree/main/0201-bitwise-and-of-numbers-range/) | Medium |
+| [0231-power-of-two](https://github.com/Benin7070/LeetCode/tree/main/0231-power-of-two/) | Easy |
+| [0260-single-number-iii](https://github.com/Benin7070/LeetCode/tree/main/0260-single-number-iii/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/Benin7070/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/Benin7070/LeetCode/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
+
+## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0042-trapping-rain-water](https://github.com/Benin7070/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
-| [0084-largest-rectangle-in-histogram](https://github.com/Benin7070/LeetCode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
-| [0085-maximal-rectangle](https://github.com/Benin7070/LeetCode/tree/main/0085-maximal-rectangle/) | Hard |
-| [0402-remove-k-digits](https://github.com/Benin7070/LeetCode/tree/main/0402-remove-k-digits/) | Medium |
-| [0496-next-greater-element-i](https://github.com/Benin7070/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
-| [0503-next-greater-element-ii](https://github.com/Benin7070/LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
-## Linked List
+| [0078-subsets](https://github.com/Benin7070/LeetCode/tree/main/0078-subsets/) | Medium |
+| [0136-single-number](https://github.com/Benin7070/LeetCode/tree/main/0136-single-number/) | Easy |
+| [0137-single-number-ii](https://github.com/Benin7070/LeetCode/tree/main/0137-single-number-ii/) | Medium |
+| [0191-number-of-1-bits](https://github.com/Benin7070/LeetCode/tree/main/0191-number-of-1-bits/) | Easy |
+| [0201-bitwise-and-of-numbers-range](https://github.com/Benin7070/LeetCode/tree/main/0201-bitwise-and-of-numbers-range/) | Medium |
+| [0231-power-of-two](https://github.com/Benin7070/LeetCode/tree/main/0231-power-of-two/) | Easy |
+| [0260-single-number-iii](https://github.com/Benin7070/LeetCode/tree/main/0260-single-number-iii/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/Benin7070/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/Benin7070/LeetCode/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
+
+## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0002-add-two-numbers](https://github.com/Benin7070/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
-| [0019-remove-nth-node-from-end-of-list](https://github.com/Benin7070/LeetCode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
-| [0021-merge-two-sorted-lists](https://github.com/Benin7070/LeetCode/tree/main/0021-merge-two-sorted-lists/) | Easy |
-| [0023-merge-k-sorted-lists](https://github.com/Benin7070/LeetCode/tree/main/0023-merge-k-sorted-lists/) | Hard |
-| [0025-reverse-nodes-in-k-group](https://github.com/Benin7070/LeetCode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
-| [0061-rotate-list](https://github.com/Benin7070/LeetCode/tree/main/0061-rotate-list/) | Medium |
-| [0083-remove-duplicates-from-sorted-list](https://github.com/Benin7070/LeetCode/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
-| [0138-copy-list-with-random-pointer](https://github.com/Benin7070/LeetCode/tree/main/0138-copy-list-with-random-pointer/) | Medium |
-| [0141-linked-list-cycle](https://github.com/Benin7070/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
-| [0142-linked-list-cycle-ii](https://github.com/Benin7070/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
-| [0148-sort-list](https://github.com/Benin7070/LeetCode/tree/main/0148-sort-list/) | Medium |
-| [0160-intersection-of-two-linked-lists](https://github.com/Benin7070/LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
-| [0206-reverse-linked-list](https://github.com/Benin7070/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
-| [0234-palindrome-linked-list](https://github.com/Benin7070/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
-| [0237-delete-node-in-a-linked-list](https://github.com/Benin7070/LeetCode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
-| [0328-odd-even-linked-list](https://github.com/Benin7070/LeetCode/tree/main/0328-odd-even-linked-list/) | Medium |
-| [0445-add-two-numbers-ii](https://github.com/Benin7070/LeetCode/tree/main/0445-add-two-numbers-ii/) | Medium |
-| [0876-middle-of-the-linked-list](https://github.com/Benin7070/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
-| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Benin7070/LeetCode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
-## String
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0008-string-to-integer-atoi](https://github.com/Benin7070/LeetCode/tree/main/0008-string-to-integer-atoi/) | Medium |
-| [0020-valid-parentheses](https://github.com/Benin7070/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
-| [0151-reverse-words-in-a-string](https://github.com/Benin7070/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
-| [0165-compare-version-numbers](https://github.com/Benin7070/LeetCode/tree/main/0165-compare-version-numbers/) | Medium |
-| [0205-isomorphic-strings](https://github.com/Benin7070/LeetCode/tree/main/0205-isomorphic-strings/) | Easy |
-| [0402-remove-k-digits](https://github.com/Benin7070/LeetCode/tree/main/0402-remove-k-digits/) | Medium |
-| [0412-fizz-buzz](https://github.com/Benin7070/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
-| [0451-sort-characters-by-frequency](https://github.com/Benin7070/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
-| [0556-next-greater-element-iii](https://github.com/Benin7070/LeetCode/tree/main/0556-next-greater-element-iii/) | Medium |
-| [0796-rotate-string](https://github.com/Benin7070/LeetCode/tree/main/0796-rotate-string/) | Easy |
-| [0981-time-based-key-value-store](https://github.com/Benin7070/LeetCode/tree/main/0981-time-based-key-value-store/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/Benin7070/LeetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Benin7070/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Benin7070/LeetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Benin7070/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0100-same-tree](https://github.com/Benin7070/LeetCode/tree/main/0100-same-tree/) | Easy |
+| [0101-symmetric-tree](https://github.com/Benin7070/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
+| [0199-binary-tree-right-side-view](https://github.com/Benin7070/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0513-find-bottom-left-tree-value](https://github.com/Benin7070/LeetCode/tree/main/0513-find-bottom-left-tree-value/) | Medium |
+| [0547-number-of-provinces](https://github.com/Benin7070/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
+| [0841-keys-and-rooms](https://github.com/Benin7070/LeetCode/tree/main/0841-keys-and-rooms/) | Medium |
+
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0100-same-tree](https://github.com/Benin7070/LeetCode/tree/main/0100-same-tree/) | Easy |
+| [0101-symmetric-tree](https://github.com/Benin7070/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
+| [0199-binary-tree-right-side-view](https://github.com/Benin7070/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0513-find-bottom-left-tree-value](https://github.com/Benin7070/LeetCode/tree/main/0513-find-bottom-left-tree-value/) | Medium |
+| [0547-number-of-provinces](https://github.com/Benin7070/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
+| [0841-keys-and-rooms](https://github.com/Benin7070/LeetCode/tree/main/0841-keys-and-rooms/) | Medium |
+
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0100-same-tree](https://github.com/Benin7070/LeetCode/tree/main/0100-same-tree/) | Easy |
+| [0101-symmetric-tree](https://github.com/Benin7070/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
+| [0199-binary-tree-right-side-view](https://github.com/Benin7070/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0513-find-bottom-left-tree-value](https://github.com/Benin7070/LeetCode/tree/main/0513-find-bottom-left-tree-value/) | Medium |
+| [0547-number-of-provinces](https://github.com/Benin7070/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
+| [0841-keys-and-rooms](https://github.com/Benin7070/LeetCode/tree/main/0841-keys-and-rooms/) | Medium |
+
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0100-same-tree](https://github.com/Benin7070/LeetCode/tree/main/0100-same-tree/) | Easy |
+| [0101-symmetric-tree](https://github.com/Benin7070/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
+| [0199-binary-tree-right-side-view](https://github.com/Benin7070/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0513-find-bottom-left-tree-value](https://github.com/Benin7070/LeetCode/tree/main/0513-find-bottom-left-tree-value/) | Medium |
+| [0547-number-of-provinces](https://github.com/Benin7070/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
+| [0841-keys-and-rooms](https://github.com/Benin7070/LeetCode/tree/main/0841-keys-and-rooms/) | Medium |
+
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Benin7070/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/Benin7070/LeetCode/tree/main/0169-majority-element/) | Easy |
+| [0229-majority-element-ii](https://github.com/Benin7070/LeetCode/tree/main/0229-majority-element-ii/) | Medium |
+| [0451-sort-characters-by-frequency](https://github.com/Benin7070/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Benin7070/LeetCode/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
-| [1903-largest-odd-number-in-string](https://github.com/Benin7070/LeetCode/tree/main/1903-largest-odd-number-in-string/) | Easy |
-| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Benin7070/LeetCode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
-| [3498-reverse-degree-of-a-string](https://github.com/Benin7070/LeetCode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
-## Design
+
+## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0155-min-stack](https://github.com/Benin7070/LeetCode/tree/main/0155-min-stack/) | Medium |
-| [0981-time-based-key-value-store](https://github.com/Benin7070/LeetCode/tree/main/0981-time-based-key-value-store/) | Medium |
-## Greedy
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0402-remove-k-digits](https://github.com/Benin7070/LeetCode/tree/main/0402-remove-k-digits/) | Medium |
-| [0410-split-array-largest-sum](https://github.com/Benin7070/LeetCode/tree/main/0410-split-array-largest-sum/) | Hard |
-| [0455-assign-cookies](https://github.com/Benin7070/LeetCode/tree/main/0455-assign-cookies/) | Easy |
-| [0860-lemonade-change](https://github.com/Benin7070/LeetCode/tree/main/0860-lemonade-change/) | Easy |
-| [1903-largest-odd-number-in-string](https://github.com/Benin7070/LeetCode/tree/main/1903-largest-odd-number-in-string/) | Easy |
-| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Benin7070/LeetCode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
-## Matrix
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0048-rotate-image](https://github.com/Benin7070/LeetCode/tree/main/0048-rotate-image/) | Medium |
-| [0054-spiral-matrix](https://github.com/Benin7070/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
-| [0059-spiral-matrix-ii](https://github.com/Benin7070/LeetCode/tree/main/0059-spiral-matrix-ii/) | Medium |
-| [0073-set-matrix-zeroes](https://github.com/Benin7070/LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
-| [0074-search-a-2d-matrix](https://github.com/Benin7070/LeetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
-| [0085-maximal-rectangle](https://github.com/Benin7070/LeetCode/tree/main/0085-maximal-rectangle/) | Hard |
-| [0240-search-a-2d-matrix-ii](https://github.com/Benin7070/LeetCode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
-| [0835-image-overlap](https://github.com/Benin7070/LeetCode/tree/main/0835-image-overlap/) | Medium |
-| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Benin7070/LeetCode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
-| [1901-find-a-peak-element-ii](https://github.com/Benin7070/LeetCode/tree/main/1901-find-a-peak-element-ii/) | Medium |
-| [2965-find-missing-and-repeated-values](https://github.com/Benin7070/LeetCode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
-## Simulation
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0054-spiral-matrix](https://github.com/Benin7070/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
-| [0059-spiral-matrix-ii](https://github.com/Benin7070/LeetCode/tree/main/0059-spiral-matrix-ii/) | Medium |
-| [0412-fizz-buzz](https://github.com/Benin7070/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
-| [2149-rearrange-array-elements-by-sign](https://github.com/Benin7070/LeetCode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
-| [3498-reverse-degree-of-a-string](https://github.com/Benin7070/LeetCode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
+| [0169-majority-element](https://github.com/Benin7070/LeetCode/tree/main/0169-majority-element/) | Easy |
+| [0229-majority-element-ii](https://github.com/Benin7070/LeetCode/tree/main/0229-majority-element-ii/) | Medium |
+| [0451-sort-characters-by-frequency](https://github.com/Benin7070/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Benin7070/LeetCode/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
+
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -458,6 +542,138 @@ https://leetcode.com/u/BENIN5050
 | [1934-confirmation-rate](https://github.com/Benin7070/LeetCode/tree/main/1934-confirmation-rate/) | Medium |
 | [1978-employees-whose-manager-left-the-company](https://github.com/Benin7070/LeetCode/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Benin7070/LeetCode/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
+
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0175-combine-two-tables](https://github.com/Benin7070/LeetCode/tree/main/0175-combine-two-tables/) | Easy |
+| [0176-second-highest-salary](https://github.com/Benin7070/LeetCode/tree/main/0176-second-highest-salary/) | Medium |
+| [0177-nth-highest-salary](https://github.com/Benin7070/LeetCode/tree/main/0177-nth-highest-salary/) | Medium |
+| [0178-rank-scores](https://github.com/Benin7070/LeetCode/tree/main/0178-rank-scores/) | Medium |
+| [0180-consecutive-numbers](https://github.com/Benin7070/LeetCode/tree/main/0180-consecutive-numbers/) | Medium |
+| [0181-employees-earning-more-than-their-managers](https://github.com/Benin7070/LeetCode/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
+| [0182-duplicate-emails](https://github.com/Benin7070/LeetCode/tree/main/0182-duplicate-emails/) | Easy |
+| [0183-customers-who-never-order](https://github.com/Benin7070/LeetCode/tree/main/0183-customers-who-never-order/) | Easy |
+| [0184-department-highest-salary](https://github.com/Benin7070/LeetCode/tree/main/0184-department-highest-salary/) | Medium |
+| [0185-department-top-three-salaries](https://github.com/Benin7070/LeetCode/tree/main/0185-department-top-three-salaries/) | Hard |
+| [0196-delete-duplicate-emails](https://github.com/Benin7070/LeetCode/tree/main/0196-delete-duplicate-emails/) | Easy |
+| [0197-rising-temperature](https://github.com/Benin7070/LeetCode/tree/main/0197-rising-temperature/) | Easy |
+| [0262-trips-and-users](https://github.com/Benin7070/LeetCode/tree/main/0262-trips-and-users/) | Hard |
+| [0511-game-play-analysis-i](https://github.com/Benin7070/LeetCode/tree/main/0511-game-play-analysis-i/) | Easy |
+| [0550-game-play-analysis-iv](https://github.com/Benin7070/LeetCode/tree/main/0550-game-play-analysis-iv/) | Medium |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/Benin7070/LeetCode/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
+| [0577-employee-bonus](https://github.com/Benin7070/LeetCode/tree/main/0577-employee-bonus/) | Easy |
+| [0584-find-customer-referee](https://github.com/Benin7070/LeetCode/tree/main/0584-find-customer-referee/) | Easy |
+| [0585-investments-in-2016](https://github.com/Benin7070/LeetCode/tree/main/0585-investments-in-2016/) | Medium |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/Benin7070/LeetCode/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
+| [0595-big-countries](https://github.com/Benin7070/LeetCode/tree/main/0595-big-countries/) | Easy |
+| [0596-classes-with-at-least-5-students](https://github.com/Benin7070/LeetCode/tree/main/0596-classes-with-at-least-5-students/) | Easy |
+| [0601-human-traffic-of-stadium](https://github.com/Benin7070/LeetCode/tree/main/0601-human-traffic-of-stadium/) | Hard |
+| [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/Benin7070/LeetCode/tree/main/0602-friend-requests-ii-who-has-the-most-friends/) | Medium |
+| [0607-sales-person](https://github.com/Benin7070/LeetCode/tree/main/0607-sales-person/) | Easy |
+| [0608-tree-node](https://github.com/Benin7070/LeetCode/tree/main/0608-tree-node/) | Medium |
+| [0610-triangle-judgement](https://github.com/Benin7070/LeetCode/tree/main/0610-triangle-judgement/) | Easy |
+| [0619-biggest-single-number](https://github.com/Benin7070/LeetCode/tree/main/0619-biggest-single-number/) | Easy |
+| [0620-not-boring-movies](https://github.com/Benin7070/LeetCode/tree/main/0620-not-boring-movies/) | Easy |
+| [0626-exchange-seats](https://github.com/Benin7070/LeetCode/tree/main/0626-exchange-seats/) | Medium |
+| [0627-swap-sex-of-employees](https://github.com/Benin7070/LeetCode/tree/main/0627-swap-sex-of-employees/) | Easy |
+| [1045-customers-who-bought-all-products](https://github.com/Benin7070/LeetCode/tree/main/1045-customers-who-bought-all-products/) | Medium |
+| [1068-product-sales-analysis-i](https://github.com/Benin7070/LeetCode/tree/main/1068-product-sales-analysis-i/) | Easy |
+| [1070-product-sales-analysis-iii](https://github.com/Benin7070/LeetCode/tree/main/1070-product-sales-analysis-iii/) | Medium |
+| [1075-project-employees-i](https://github.com/Benin7070/LeetCode/tree/main/1075-project-employees-i/) | Easy |
+| [1141-user-activity-for-the-past-30-days-i](https://github.com/Benin7070/LeetCode/tree/main/1141-user-activity-for-the-past-30-days-i/) | Easy |
+| [1148-article-views-i](https://github.com/Benin7070/LeetCode/tree/main/1148-article-views-i/) | Easy |
+| [1164-product-price-at-a-given-date](https://github.com/Benin7070/LeetCode/tree/main/1164-product-price-at-a-given-date/) | Medium |
+| [1174-immediate-food-delivery-ii](https://github.com/Benin7070/LeetCode/tree/main/1174-immediate-food-delivery-ii/) | Medium |
+| [1193-monthly-transactions-i](https://github.com/Benin7070/LeetCode/tree/main/1193-monthly-transactions-i/) | Medium |
+| [1204-last-person-to-fit-in-the-bus](https://github.com/Benin7070/LeetCode/tree/main/1204-last-person-to-fit-in-the-bus/) | Medium |
+| [1211-queries-quality-and-percentage](https://github.com/Benin7070/LeetCode/tree/main/1211-queries-quality-and-percentage/) | Easy |
+| [1251-average-selling-price](https://github.com/Benin7070/LeetCode/tree/main/1251-average-selling-price/) | Easy |
+| [1280-students-and-examinations](https://github.com/Benin7070/LeetCode/tree/main/1280-students-and-examinations/) | Easy |
+| [1321-restaurant-growth](https://github.com/Benin7070/LeetCode/tree/main/1321-restaurant-growth/) | Medium |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/Benin7070/LeetCode/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Benin7070/LeetCode/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
+| [1484-group-sold-products-by-the-date](https://github.com/Benin7070/LeetCode/tree/main/1484-group-sold-products-by-the-date/) | Easy |
+| [1517-find-users-with-valid-e-mails](https://github.com/Benin7070/LeetCode/tree/main/1517-find-users-with-valid-e-mails/) | Easy |
+| [1527-patients-with-a-condition](https://github.com/Benin7070/LeetCode/tree/main/1527-patients-with-a-condition/) | Easy |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Benin7070/LeetCode/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
+| [1633-percentage-of-users-attended-a-contest](https://github.com/Benin7070/LeetCode/tree/main/1633-percentage-of-users-attended-a-contest/) | Easy |
+| [1661-average-time-of-process-per-machine](https://github.com/Benin7070/LeetCode/tree/main/1661-average-time-of-process-per-machine/) | Easy |
+| [1667-fix-names-in-a-table](https://github.com/Benin7070/LeetCode/tree/main/1667-fix-names-in-a-table/) | Easy |
+| [1683-invalid-tweets](https://github.com/Benin7070/LeetCode/tree/main/1683-invalid-tweets/) | Easy |
+| [1729-find-followers-count](https://github.com/Benin7070/LeetCode/tree/main/1729-find-followers-count/) | Easy |
+| [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/Benin7070/LeetCode/tree/main/1731-the-number-of-employees-which-report-to-each-employee/) | Easy |
+| [1757-recyclable-and-low-fat-products](https://github.com/Benin7070/LeetCode/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
+| [1789-primary-department-for-each-employee](https://github.com/Benin7070/LeetCode/tree/main/1789-primary-department-for-each-employee/) | Easy |
+| [1907-count-salary-categories](https://github.com/Benin7070/LeetCode/tree/main/1907-count-salary-categories/) | Medium |
+| [1934-confirmation-rate](https://github.com/Benin7070/LeetCode/tree/main/1934-confirmation-rate/) | Medium |
+| [1978-employees-whose-manager-left-the-company](https://github.com/Benin7070/LeetCode/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Benin7070/LeetCode/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
+
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Benin7070/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0100-same-tree](https://github.com/Benin7070/LeetCode/tree/main/0100-same-tree/) | Easy |
+| [0101-symmetric-tree](https://github.com/Benin7070/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/Benin7070/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/Benin7070/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0199-binary-tree-right-side-view](https://github.com/Benin7070/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0513-find-bottom-left-tree-value](https://github.com/Benin7070/LeetCode/tree/main/0513-find-bottom-left-tree-value/) | Medium |
+| [0547-number-of-provinces](https://github.com/Benin7070/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
+| [0841-keys-and-rooms](https://github.com/Benin7070/LeetCode/tree/main/0841-keys-and-rooms/) | Medium |
+
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Benin7070/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0100-same-tree](https://github.com/Benin7070/LeetCode/tree/main/0100-same-tree/) | Easy |
+| [0101-symmetric-tree](https://github.com/Benin7070/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/Benin7070/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/Benin7070/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0199-binary-tree-right-side-view](https://github.com/Benin7070/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0513-find-bottom-left-tree-value](https://github.com/Benin7070/LeetCode/tree/main/0513-find-bottom-left-tree-value/) | Medium |
+| [0547-number-of-provinces](https://github.com/Benin7070/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
+| [0841-keys-and-rooms](https://github.com/Benin7070/LeetCode/tree/main/0841-keys-and-rooms/) | Medium |
+
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Benin7070/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0100-same-tree](https://github.com/Benin7070/LeetCode/tree/main/0100-same-tree/) | Easy |
+| [0101-symmetric-tree](https://github.com/Benin7070/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/Benin7070/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/Benin7070/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0199-binary-tree-right-side-view](https://github.com/Benin7070/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0513-find-bottom-left-tree-value](https://github.com/Benin7070/LeetCode/tree/main/0513-find-bottom-left-tree-value/) | Medium |
+| [0547-number-of-provinces](https://github.com/Benin7070/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
+| [0841-keys-and-rooms](https://github.com/Benin7070/LeetCode/tree/main/0841-keys-and-rooms/) | Medium |
+
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Benin7070/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0100-same-tree](https://github.com/Benin7070/LeetCode/tree/main/0100-same-tree/) | Easy |
+| [0101-symmetric-tree](https://github.com/Benin7070/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/Benin7070/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/Benin7070/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0199-binary-tree-right-side-view](https://github.com/Benin7070/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0513-find-bottom-left-tree-value](https://github.com/Benin7070/LeetCode/tree/main/0513-find-bottom-left-tree-value/) | Medium |
+| [0547-number-of-provinces](https://github.com/Benin7070/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
+| [0841-keys-and-rooms](https://github.com/Benin7070/LeetCode/tree/main/0841-keys-and-rooms/) | Medium |
+
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0155-min-stack](https://github.com/Benin7070/LeetCode/tree/main/0155-min-stack/) | Medium |
+| [0981-time-based-key-value-store](https://github.com/Benin7070/LeetCode/tree/main/0981-time-based-key-value-store/) | Medium |
+
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0155-min-stack](https://github.com/Benin7070/LeetCode/tree/main/0155-min-stack/) | Medium |
+| [0981-time-based-key-value-store](https://github.com/Benin7070/LeetCode/tree/main/0981-time-based-key-value-store/) | Medium |
+
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -469,26 +685,736 @@ https://leetcode.com/u/BENIN5050
 | [0240-search-a-2d-matrix-ii](https://github.com/Benin7070/LeetCode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0493-reverse-pairs](https://github.com/Benin7070/LeetCode/tree/main/0493-reverse-pairs/) | Hard |
 | [0918-maximum-sum-circular-subarray](https://github.com/Benin7070/LeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
-## Binary Search
+
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Benin7070/LeetCode/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0053-maximum-subarray](https://github.com/Benin7070/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
+| [0148-sort-list](https://github.com/Benin7070/LeetCode/tree/main/0148-sort-list/) | Medium |
+| [0169-majority-element](https://github.com/Benin7070/LeetCode/tree/main/0169-majority-element/) | Easy |
+| [0191-number-of-1-bits](https://github.com/Benin7070/LeetCode/tree/main/0191-number-of-1-bits/) | Easy |
+| [0240-search-a-2d-matrix-ii](https://github.com/Benin7070/LeetCode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0493-reverse-pairs](https://github.com/Benin7070/LeetCode/tree/main/0493-reverse-pairs/) | Hard |
+| [0918-maximum-sum-circular-subarray](https://github.com/Benin7070/LeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Benin7070/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0053-maximum-subarray](https://github.com/Benin7070/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
+| [0070-climbing-stairs](https://github.com/Benin7070/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
+| [0085-maximal-rectangle](https://github.com/Benin7070/LeetCode/tree/main/0085-maximal-rectangle/) | Hard |
+| [0096-unique-binary-search-trees](https://github.com/Benin7070/LeetCode/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0118-pascals-triangle](https://github.com/Benin7070/LeetCode/tree/main/0118-pascals-triangle/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Benin7070/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0410-split-array-largest-sum](https://github.com/Benin7070/LeetCode/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0918-maximum-sum-circular-subarray](https://github.com/Benin7070/LeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Benin7070/LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Benin7070/LeetCode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
+| [3524-find-x-value-of-array-i](https://github.com/Benin7070/LeetCode/tree/main/3524-find-x-value-of-array-i/) | Medium |
+
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Benin7070/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0053-maximum-subarray](https://github.com/Benin7070/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
+| [0070-climbing-stairs](https://github.com/Benin7070/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
+| [0085-maximal-rectangle](https://github.com/Benin7070/LeetCode/tree/main/0085-maximal-rectangle/) | Hard |
+| [0096-unique-binary-search-trees](https://github.com/Benin7070/LeetCode/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0118-pascals-triangle](https://github.com/Benin7070/LeetCode/tree/main/0118-pascals-triangle/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Benin7070/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0410-split-array-largest-sum](https://github.com/Benin7070/LeetCode/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0918-maximum-sum-circular-subarray](https://github.com/Benin7070/LeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Benin7070/LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Benin7070/LeetCode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
+| [3524-find-x-value-of-array-i](https://github.com/Benin7070/LeetCode/tree/main/3524-find-x-value-of-array-i/) | Medium |
+
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Benin7070/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0053-maximum-subarray](https://github.com/Benin7070/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
+| [0070-climbing-stairs](https://github.com/Benin7070/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
+| [0085-maximal-rectangle](https://github.com/Benin7070/LeetCode/tree/main/0085-maximal-rectangle/) | Hard |
+| [0096-unique-binary-search-trees](https://github.com/Benin7070/LeetCode/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0118-pascals-triangle](https://github.com/Benin7070/LeetCode/tree/main/0118-pascals-triangle/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Benin7070/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0410-split-array-largest-sum](https://github.com/Benin7070/LeetCode/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0918-maximum-sum-circular-subarray](https://github.com/Benin7070/LeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Benin7070/LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Benin7070/LeetCode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
+| [3524-find-x-value-of-array-i](https://github.com/Benin7070/LeetCode/tree/main/3524-find-x-value-of-array-i/) | Medium |
+
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Benin7070/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0053-maximum-subarray](https://github.com/Benin7070/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
+| [0070-climbing-stairs](https://github.com/Benin7070/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
+| [0085-maximal-rectangle](https://github.com/Benin7070/LeetCode/tree/main/0085-maximal-rectangle/) | Hard |
+| [0096-unique-binary-search-trees](https://github.com/Benin7070/LeetCode/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0118-pascals-triangle](https://github.com/Benin7070/LeetCode/tree/main/0118-pascals-triangle/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Benin7070/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0410-split-array-largest-sum](https://github.com/Benin7070/LeetCode/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0918-maximum-sum-circular-subarray](https://github.com/Benin7070/LeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Benin7070/LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Benin7070/LeetCode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
+| [3524-find-x-value-of-array-i](https://github.com/Benin7070/LeetCode/tree/main/3524-find-x-value-of-array-i/) | Medium |
+
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Benin7070/LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Benin7070/LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/Benin7070/LeetCode/tree/main/0836-rectangle-overlap/) | Easy |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Benin7070/LeetCode/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
+
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/Benin7070/LeetCode/tree/main/0836-rectangle-overlap/) | Easy |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Benin7070/LeetCode/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
+
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0547-number-of-provinces](https://github.com/Benin7070/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
+| [0841-keys-and-rooms](https://github.com/Benin7070/LeetCode/tree/main/0841-keys-and-rooms/) | Medium |
+
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0547-number-of-provinces](https://github.com/Benin7070/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
+| [0841-keys-and-rooms](https://github.com/Benin7070/LeetCode/tree/main/0841-keys-and-rooms/) | Medium |
+
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0402-remove-k-digits](https://github.com/Benin7070/LeetCode/tree/main/0402-remove-k-digits/) | Medium |
+| [0410-split-array-largest-sum](https://github.com/Benin7070/LeetCode/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0455-assign-cookies](https://github.com/Benin7070/LeetCode/tree/main/0455-assign-cookies/) | Easy |
+| [0860-lemonade-change](https://github.com/Benin7070/LeetCode/tree/main/0860-lemonade-change/) | Easy |
+| [1903-largest-odd-number-in-string](https://github.com/Benin7070/LeetCode/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Benin7070/LeetCode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
+
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0402-remove-k-digits](https://github.com/Benin7070/LeetCode/tree/main/0402-remove-k-digits/) | Medium |
+| [0410-split-array-largest-sum](https://github.com/Benin7070/LeetCode/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0455-assign-cookies](https://github.com/Benin7070/LeetCode/tree/main/0455-assign-cookies/) | Easy |
+| [0860-lemonade-change](https://github.com/Benin7070/LeetCode/tree/main/0860-lemonade-change/) | Easy |
+| [1903-largest-odd-number-in-string](https://github.com/Benin7070/LeetCode/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Benin7070/LeetCode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
+
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/Benin7070/LeetCode/tree/main/0001-two-sum/) | Easy |
+| [0073-set-matrix-zeroes](https://github.com/Benin7070/LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0138-copy-list-with-random-pointer](https://github.com/Benin7070/LeetCode/tree/main/0138-copy-list-with-random-pointer/) | Medium |
+| [0141-linked-list-cycle](https://github.com/Benin7070/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/Benin7070/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/Benin7070/LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0169-majority-element](https://github.com/Benin7070/LeetCode/tree/main/0169-majority-element/) | Easy |
+| [0205-isomorphic-strings](https://github.com/Benin7070/LeetCode/tree/main/0205-isomorphic-strings/) | Easy |
+| [0229-majority-element-ii](https://github.com/Benin7070/LeetCode/tree/main/0229-majority-element-ii/) | Medium |
+| [0451-sort-characters-by-frequency](https://github.com/Benin7070/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0496-next-greater-element-i](https://github.com/Benin7070/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/Benin7070/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0981-time-based-key-value-store](https://github.com/Benin7070/LeetCode/tree/main/0981-time-based-key-value-store/) | Medium |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Benin7070/LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Benin7070/LeetCode/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
+| [2965-find-missing-and-repeated-values](https://github.com/Benin7070/LeetCode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/Benin7070/LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/Benin7070/LeetCode/tree/main/0001-two-sum/) | Easy |
+| [0073-set-matrix-zeroes](https://github.com/Benin7070/LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0138-copy-list-with-random-pointer](https://github.com/Benin7070/LeetCode/tree/main/0138-copy-list-with-random-pointer/) | Medium |
+| [0141-linked-list-cycle](https://github.com/Benin7070/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/Benin7070/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/Benin7070/LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0169-majority-element](https://github.com/Benin7070/LeetCode/tree/main/0169-majority-element/) | Easy |
+| [0205-isomorphic-strings](https://github.com/Benin7070/LeetCode/tree/main/0205-isomorphic-strings/) | Easy |
+| [0229-majority-element-ii](https://github.com/Benin7070/LeetCode/tree/main/0229-majority-element-ii/) | Medium |
+| [0451-sort-characters-by-frequency](https://github.com/Benin7070/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0496-next-greater-element-i](https://github.com/Benin7070/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/Benin7070/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0981-time-based-key-value-store](https://github.com/Benin7070/LeetCode/tree/main/0981-time-based-key-value-store/) | Medium |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Benin7070/LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Benin7070/LeetCode/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
+| [2965-find-missing-and-repeated-values](https://github.com/Benin7070/LeetCode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/Benin7070/LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Benin7070/LeetCode/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0451-sort-characters-by-frequency](https://github.com/Benin7070/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0278-first-bad-version](https://github.com/Benin7070/LeetCode/tree/main/0278-first-bad-version/) | Easy |
+| [0374-guess-number-higher-or-lower](https://github.com/Benin7070/LeetCode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
+
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0278-first-bad-version](https://github.com/Benin7070/LeetCode/tree/main/0278-first-bad-version/) | Easy |
+| [0374-guess-number-higher-or-lower](https://github.com/Benin7070/LeetCode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
+
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Benin7070/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Benin7070/LeetCode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0021-merge-two-sorted-lists](https://github.com/Benin7070/LeetCode/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0023-merge-k-sorted-lists](https://github.com/Benin7070/LeetCode/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0025-reverse-nodes-in-k-group](https://github.com/Benin7070/LeetCode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
+| [0061-rotate-list](https://github.com/Benin7070/LeetCode/tree/main/0061-rotate-list/) | Medium |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Benin7070/LeetCode/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
+| [0138-copy-list-with-random-pointer](https://github.com/Benin7070/LeetCode/tree/main/0138-copy-list-with-random-pointer/) | Medium |
+| [0141-linked-list-cycle](https://github.com/Benin7070/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/Benin7070/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0148-sort-list](https://github.com/Benin7070/LeetCode/tree/main/0148-sort-list/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/Benin7070/LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0206-reverse-linked-list](https://github.com/Benin7070/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/Benin7070/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0237-delete-node-in-a-linked-list](https://github.com/Benin7070/LeetCode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
+| [0328-odd-even-linked-list](https://github.com/Benin7070/LeetCode/tree/main/0328-odd-even-linked-list/) | Medium |
+| [0445-add-two-numbers-ii](https://github.com/Benin7070/LeetCode/tree/main/0445-add-two-numbers-ii/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/Benin7070/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Benin7070/LeetCode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
+
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Benin7070/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Benin7070/LeetCode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0021-merge-two-sorted-lists](https://github.com/Benin7070/LeetCode/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0023-merge-k-sorted-lists](https://github.com/Benin7070/LeetCode/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0025-reverse-nodes-in-k-group](https://github.com/Benin7070/LeetCode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
+| [0061-rotate-list](https://github.com/Benin7070/LeetCode/tree/main/0061-rotate-list/) | Medium |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Benin7070/LeetCode/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
+| [0138-copy-list-with-random-pointer](https://github.com/Benin7070/LeetCode/tree/main/0138-copy-list-with-random-pointer/) | Medium |
+| [0141-linked-list-cycle](https://github.com/Benin7070/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/Benin7070/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0148-sort-list](https://github.com/Benin7070/LeetCode/tree/main/0148-sort-list/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/Benin7070/LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0206-reverse-linked-list](https://github.com/Benin7070/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/Benin7070/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0237-delete-node-in-a-linked-list](https://github.com/Benin7070/LeetCode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
+| [0328-odd-even-linked-list](https://github.com/Benin7070/LeetCode/tree/main/0328-odd-even-linked-list/) | Medium |
+| [0445-add-two-numbers-ii](https://github.com/Benin7070/LeetCode/tree/main/0445-add-two-numbers-ii/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/Benin7070/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Benin7070/LeetCode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
+
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Benin7070/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
+| [0048-rotate-image](https://github.com/Benin7070/LeetCode/tree/main/0048-rotate-image/) | Medium |
+| [0050-powx-n](https://github.com/Benin7070/LeetCode/tree/main/0050-powx-n/) | Medium |
+| [0070-climbing-stairs](https://github.com/Benin7070/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
+| [0096-unique-binary-search-trees](https://github.com/Benin7070/LeetCode/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0231-power-of-two](https://github.com/Benin7070/LeetCode/tree/main/0231-power-of-two/) | Easy |
+| [0412-fizz-buzz](https://github.com/Benin7070/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
+| [0441-arranging-coins](https://github.com/Benin7070/LeetCode/tree/main/0441-arranging-coins/) | Easy |
+| [0445-add-two-numbers-ii](https://github.com/Benin7070/LeetCode/tree/main/0445-add-two-numbers-ii/) | Medium |
+| [0556-next-greater-element-iii](https://github.com/Benin7070/LeetCode/tree/main/0556-next-greater-element-iii/) | Medium |
+| [0836-rectangle-overlap](https://github.com/Benin7070/LeetCode/tree/main/0836-rectangle-overlap/) | Easy |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Benin7070/LeetCode/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
+| [1903-largest-odd-number-in-string](https://github.com/Benin7070/LeetCode/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [2965-find-missing-and-repeated-values](https://github.com/Benin7070/LeetCode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
+| [3524-find-x-value-of-array-i](https://github.com/Benin7070/LeetCode/tree/main/3524-find-x-value-of-array-i/) | Medium |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Benin7070/LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Benin7070/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
+| [0048-rotate-image](https://github.com/Benin7070/LeetCode/tree/main/0048-rotate-image/) | Medium |
+| [0050-powx-n](https://github.com/Benin7070/LeetCode/tree/main/0050-powx-n/) | Medium |
+| [0070-climbing-stairs](https://github.com/Benin7070/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
+| [0096-unique-binary-search-trees](https://github.com/Benin7070/LeetCode/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0231-power-of-two](https://github.com/Benin7070/LeetCode/tree/main/0231-power-of-two/) | Easy |
+| [0412-fizz-buzz](https://github.com/Benin7070/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
+| [0441-arranging-coins](https://github.com/Benin7070/LeetCode/tree/main/0441-arranging-coins/) | Easy |
+| [0445-add-two-numbers-ii](https://github.com/Benin7070/LeetCode/tree/main/0445-add-two-numbers-ii/) | Medium |
+| [0556-next-greater-element-iii](https://github.com/Benin7070/LeetCode/tree/main/0556-next-greater-element-iii/) | Medium |
+| [0836-rectangle-overlap](https://github.com/Benin7070/LeetCode/tree/main/0836-rectangle-overlap/) | Easy |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Benin7070/LeetCode/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
+| [1903-largest-odd-number-in-string](https://github.com/Benin7070/LeetCode/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [2965-find-missing-and-repeated-values](https://github.com/Benin7070/LeetCode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
+| [3524-find-x-value-of-array-i](https://github.com/Benin7070/LeetCode/tree/main/3524-find-x-value-of-array-i/) | Medium |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Benin7070/LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Benin7070/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
+| [0048-rotate-image](https://github.com/Benin7070/LeetCode/tree/main/0048-rotate-image/) | Medium |
+| [0050-powx-n](https://github.com/Benin7070/LeetCode/tree/main/0050-powx-n/) | Medium |
+| [0070-climbing-stairs](https://github.com/Benin7070/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
+| [0096-unique-binary-search-trees](https://github.com/Benin7070/LeetCode/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0231-power-of-two](https://github.com/Benin7070/LeetCode/tree/main/0231-power-of-two/) | Easy |
+| [0412-fizz-buzz](https://github.com/Benin7070/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
+| [0441-arranging-coins](https://github.com/Benin7070/LeetCode/tree/main/0441-arranging-coins/) | Easy |
+| [0445-add-two-numbers-ii](https://github.com/Benin7070/LeetCode/tree/main/0445-add-two-numbers-ii/) | Medium |
+| [0556-next-greater-element-iii](https://github.com/Benin7070/LeetCode/tree/main/0556-next-greater-element-iii/) | Medium |
+| [0836-rectangle-overlap](https://github.com/Benin7070/LeetCode/tree/main/0836-rectangle-overlap/) | Easy |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Benin7070/LeetCode/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
+| [1903-largest-odd-number-in-string](https://github.com/Benin7070/LeetCode/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [2965-find-missing-and-repeated-values](https://github.com/Benin7070/LeetCode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
+| [3524-find-x-value-of-array-i](https://github.com/Benin7070/LeetCode/tree/main/3524-find-x-value-of-array-i/) | Medium |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Benin7070/LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Benin7070/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
+| [0048-rotate-image](https://github.com/Benin7070/LeetCode/tree/main/0048-rotate-image/) | Medium |
+| [0050-powx-n](https://github.com/Benin7070/LeetCode/tree/main/0050-powx-n/) | Medium |
+| [0070-climbing-stairs](https://github.com/Benin7070/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
+| [0096-unique-binary-search-trees](https://github.com/Benin7070/LeetCode/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0231-power-of-two](https://github.com/Benin7070/LeetCode/tree/main/0231-power-of-two/) | Easy |
+| [0412-fizz-buzz](https://github.com/Benin7070/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
+| [0441-arranging-coins](https://github.com/Benin7070/LeetCode/tree/main/0441-arranging-coins/) | Easy |
+| [0445-add-two-numbers-ii](https://github.com/Benin7070/LeetCode/tree/main/0445-add-two-numbers-ii/) | Medium |
+| [0556-next-greater-element-iii](https://github.com/Benin7070/LeetCode/tree/main/0556-next-greater-element-iii/) | Medium |
+| [0836-rectangle-overlap](https://github.com/Benin7070/LeetCode/tree/main/0836-rectangle-overlap/) | Easy |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Benin7070/LeetCode/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
+| [1903-largest-odd-number-in-string](https://github.com/Benin7070/LeetCode/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [2965-find-missing-and-repeated-values](https://github.com/Benin7070/LeetCode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
+| [3524-find-x-value-of-array-i](https://github.com/Benin7070/LeetCode/tree/main/3524-find-x-value-of-array-i/) | Medium |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Benin7070/LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0048-rotate-image](https://github.com/Benin7070/LeetCode/tree/main/0048-rotate-image/) | Medium |
+| [0054-spiral-matrix](https://github.com/Benin7070/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
+| [0059-spiral-matrix-ii](https://github.com/Benin7070/LeetCode/tree/main/0059-spiral-matrix-ii/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/Benin7070/LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/Benin7070/LeetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0085-maximal-rectangle](https://github.com/Benin7070/LeetCode/tree/main/0085-maximal-rectangle/) | Hard |
+| [0240-search-a-2d-matrix-ii](https://github.com/Benin7070/LeetCode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0835-image-overlap](https://github.com/Benin7070/LeetCode/tree/main/0835-image-overlap/) | Medium |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Benin7070/LeetCode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
+| [1901-find-a-peak-element-ii](https://github.com/Benin7070/LeetCode/tree/main/1901-find-a-peak-element-ii/) | Medium |
+| [2965-find-missing-and-repeated-values](https://github.com/Benin7070/LeetCode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
+
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0048-rotate-image](https://github.com/Benin7070/LeetCode/tree/main/0048-rotate-image/) | Medium |
+| [0054-spiral-matrix](https://github.com/Benin7070/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
+| [0059-spiral-matrix-ii](https://github.com/Benin7070/LeetCode/tree/main/0059-spiral-matrix-ii/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/Benin7070/LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/Benin7070/LeetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0085-maximal-rectangle](https://github.com/Benin7070/LeetCode/tree/main/0085-maximal-rectangle/) | Hard |
+| [0240-search-a-2d-matrix-ii](https://github.com/Benin7070/LeetCode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0835-image-overlap](https://github.com/Benin7070/LeetCode/tree/main/0835-image-overlap/) | Medium |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Benin7070/LeetCode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
+| [1901-find-a-peak-element-ii](https://github.com/Benin7070/LeetCode/tree/main/1901-find-a-peak-element-ii/) | Medium |
+| [2965-find-missing-and-repeated-values](https://github.com/Benin7070/LeetCode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
+
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Benin7070/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
+
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Benin7070/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
+
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Benin7070/LeetCode/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0148-sort-list](https://github.com/Benin7070/LeetCode/tree/main/0148-sort-list/) | Medium |
+| [0493-reverse-pairs](https://github.com/Benin7070/LeetCode/tree/main/0493-reverse-pairs/) | Hard |
+
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Benin7070/LeetCode/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0148-sort-list](https://github.com/Benin7070/LeetCode/tree/main/0148-sort-list/) | Medium |
+| [0493-reverse-pairs](https://github.com/Benin7070/LeetCode/tree/main/0493-reverse-pairs/) | Hard |
+
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Benin7070/LeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Benin7070/LeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Benin7070/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0084-largest-rectangle-in-histogram](https://github.com/Benin7070/LeetCode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0085-maximal-rectangle](https://github.com/Benin7070/LeetCode/tree/main/0085-maximal-rectangle/) | Hard |
+| [0402-remove-k-digits](https://github.com/Benin7070/LeetCode/tree/main/0402-remove-k-digits/) | Medium |
+| [0496-next-greater-element-i](https://github.com/Benin7070/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/Benin7070/LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
+
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Benin7070/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0084-largest-rectangle-in-histogram](https://github.com/Benin7070/LeetCode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0085-maximal-rectangle](https://github.com/Benin7070/LeetCode/tree/main/0085-maximal-rectangle/) | Hard |
+| [0402-remove-k-digits](https://github.com/Benin7070/LeetCode/tree/main/0402-remove-k-digits/) | Medium |
+| [0496-next-greater-element-i](https://github.com/Benin7070/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/Benin7070/LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
+
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/Benin7070/LeetCode/tree/main/0493-reverse-pairs/) | Hard |
+
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/Benin7070/LeetCode/tree/main/0493-reverse-pairs/) | Hard |
+
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0410-split-array-largest-sum](https://github.com/Benin7070/LeetCode/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0560-subarray-sum-equals-k](https://github.com/Benin7070/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0410-split-array-largest-sum](https://github.com/Benin7070/LeetCode/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0560-subarray-sum-equals-k](https://github.com/Benin7070/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Benin7070/LeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Benin7070/LeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0455-assign-cookies](https://github.com/Benin7070/LeetCode/tree/main/0455-assign-cookies/) | Easy |
+
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Benin7070/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
+| [0021-merge-two-sorted-lists](https://github.com/Benin7070/LeetCode/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0025-reverse-nodes-in-k-group](https://github.com/Benin7070/LeetCode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
+| [0050-powx-n](https://github.com/Benin7070/LeetCode/tree/main/0050-powx-n/) | Medium |
+| [0206-reverse-linked-list](https://github.com/Benin7070/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
+| [0231-power-of-two](https://github.com/Benin7070/LeetCode/tree/main/0231-power-of-two/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/Benin7070/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/Benin7070/LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Benin7070/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
+| [0021-merge-two-sorted-lists](https://github.com/Benin7070/LeetCode/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0025-reverse-nodes-in-k-group](https://github.com/Benin7070/LeetCode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
+| [0050-powx-n](https://github.com/Benin7070/LeetCode/tree/main/0050-powx-n/) | Medium |
+| [0206-reverse-linked-list](https://github.com/Benin7070/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
+| [0231-power-of-two](https://github.com/Benin7070/LeetCode/tree/main/0231-power-of-two/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/Benin7070/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/Benin7070/LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Benin7070/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
+| [0021-merge-two-sorted-lists](https://github.com/Benin7070/LeetCode/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0025-reverse-nodes-in-k-group](https://github.com/Benin7070/LeetCode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
+| [0050-powx-n](https://github.com/Benin7070/LeetCode/tree/main/0050-powx-n/) | Medium |
+| [0206-reverse-linked-list](https://github.com/Benin7070/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
+| [0231-power-of-two](https://github.com/Benin7070/LeetCode/tree/main/0231-power-of-two/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/Benin7070/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/Benin7070/LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Benin7070/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
+| [0021-merge-two-sorted-lists](https://github.com/Benin7070/LeetCode/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0025-reverse-nodes-in-k-group](https://github.com/Benin7070/LeetCode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
+| [0050-powx-n](https://github.com/Benin7070/LeetCode/tree/main/0050-powx-n/) | Medium |
+| [0206-reverse-linked-list](https://github.com/Benin7070/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
+| [0231-power-of-two](https://github.com/Benin7070/LeetCode/tree/main/0231-power-of-two/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/Benin7070/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/Benin7070/LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/Benin7070/LeetCode/tree/main/0493-reverse-pairs/) | Hard |
+
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/Benin7070/LeetCode/tree/main/0493-reverse-pairs/) | Hard |
+
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0054-spiral-matrix](https://github.com/Benin7070/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
+| [0059-spiral-matrix-ii](https://github.com/Benin7070/LeetCode/tree/main/0059-spiral-matrix-ii/) | Medium |
+| [0412-fizz-buzz](https://github.com/Benin7070/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Benin7070/LeetCode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [3498-reverse-degree-of-a-string](https://github.com/Benin7070/LeetCode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
+
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0054-spiral-matrix](https://github.com/Benin7070/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
+| [0059-spiral-matrix-ii](https://github.com/Benin7070/LeetCode/tree/main/0059-spiral-matrix-ii/) | Medium |
+| [0412-fizz-buzz](https://github.com/Benin7070/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Benin7070/LeetCode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [3498-reverse-degree-of-a-string](https://github.com/Benin7070/LeetCode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
+
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Benin7070/LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0056-merge-intervals](https://github.com/Benin7070/LeetCode/tree/main/0056-merge-intervals/) | Medium |
+| [0075-sort-colors](https://github.com/Benin7070/LeetCode/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/Benin7070/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0148-sort-list](https://github.com/Benin7070/LeetCode/tree/main/0148-sort-list/) | Medium |
+| [0169-majority-element](https://github.com/Benin7070/LeetCode/tree/main/0169-majority-element/) | Easy |
+| [0229-majority-element-ii](https://github.com/Benin7070/LeetCode/tree/main/0229-majority-element-ii/) | Medium |
+| [0451-sort-characters-by-frequency](https://github.com/Benin7070/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0455-assign-cookies](https://github.com/Benin7070/LeetCode/tree/main/0455-assign-cookies/) | Easy |
+
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0056-merge-intervals](https://github.com/Benin7070/LeetCode/tree/main/0056-merge-intervals/) | Medium |
+| [0075-sort-colors](https://github.com/Benin7070/LeetCode/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/Benin7070/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0148-sort-list](https://github.com/Benin7070/LeetCode/tree/main/0148-sort-list/) | Medium |
+| [0169-majority-element](https://github.com/Benin7070/LeetCode/tree/main/0169-majority-element/) | Easy |
+| [0229-majority-element-ii](https://github.com/Benin7070/LeetCode/tree/main/0229-majority-element-ii/) | Medium |
+| [0451-sort-characters-by-frequency](https://github.com/Benin7070/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0455-assign-cookies](https://github.com/Benin7070/LeetCode/tree/main/0455-assign-cookies/) | Easy |
+
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0056-merge-intervals](https://github.com/Benin7070/LeetCode/tree/main/0056-merge-intervals/) | Medium |
+| [0075-sort-colors](https://github.com/Benin7070/LeetCode/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/Benin7070/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0148-sort-list](https://github.com/Benin7070/LeetCode/tree/main/0148-sort-list/) | Medium |
+| [0169-majority-element](https://github.com/Benin7070/LeetCode/tree/main/0169-majority-element/) | Easy |
+| [0229-majority-element-ii](https://github.com/Benin7070/LeetCode/tree/main/0229-majority-element-ii/) | Medium |
+| [0451-sort-characters-by-frequency](https://github.com/Benin7070/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0455-assign-cookies](https://github.com/Benin7070/LeetCode/tree/main/0455-assign-cookies/) | Easy |
+
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0056-merge-intervals](https://github.com/Benin7070/LeetCode/tree/main/0056-merge-intervals/) | Medium |
+| [0075-sort-colors](https://github.com/Benin7070/LeetCode/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/Benin7070/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0148-sort-list](https://github.com/Benin7070/LeetCode/tree/main/0148-sort-list/) | Medium |
+| [0169-majority-element](https://github.com/Benin7070/LeetCode/tree/main/0169-majority-element/) | Easy |
+| [0229-majority-element-ii](https://github.com/Benin7070/LeetCode/tree/main/0229-majority-element-ii/) | Medium |
+| [0451-sort-characters-by-frequency](https://github.com/Benin7070/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0455-assign-cookies](https://github.com/Benin7070/LeetCode/tree/main/0455-assign-cookies/) | Easy |
+
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Benin7070/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
+| [0042-trapping-rain-water](https://github.com/Benin7070/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0084-largest-rectangle-in-histogram](https://github.com/Benin7070/LeetCode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0085-maximal-rectangle](https://github.com/Benin7070/LeetCode/tree/main/0085-maximal-rectangle/) | Hard |
+| [0094-binary-tree-inorder-traversal](https://github.com/Benin7070/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/Benin7070/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/Benin7070/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0155-min-stack](https://github.com/Benin7070/LeetCode/tree/main/0155-min-stack/) | Medium |
+| [0234-palindrome-linked-list](https://github.com/Benin7070/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0402-remove-k-digits](https://github.com/Benin7070/LeetCode/tree/main/0402-remove-k-digits/) | Medium |
+| [0445-add-two-numbers-ii](https://github.com/Benin7070/LeetCode/tree/main/0445-add-two-numbers-ii/) | Medium |
+| [0496-next-greater-element-i](https://github.com/Benin7070/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/Benin7070/LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/Benin7070/LeetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Benin7070/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Benin7070/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
+| [0042-trapping-rain-water](https://github.com/Benin7070/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0084-largest-rectangle-in-histogram](https://github.com/Benin7070/LeetCode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0085-maximal-rectangle](https://github.com/Benin7070/LeetCode/tree/main/0085-maximal-rectangle/) | Hard |
+| [0094-binary-tree-inorder-traversal](https://github.com/Benin7070/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/Benin7070/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/Benin7070/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0155-min-stack](https://github.com/Benin7070/LeetCode/tree/main/0155-min-stack/) | Medium |
+| [0234-palindrome-linked-list](https://github.com/Benin7070/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0402-remove-k-digits](https://github.com/Benin7070/LeetCode/tree/main/0402-remove-k-digits/) | Medium |
+| [0445-add-two-numbers-ii](https://github.com/Benin7070/LeetCode/tree/main/0445-add-two-numbers-ii/) | Medium |
+| [0496-next-greater-element-i](https://github.com/Benin7070/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/Benin7070/LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/Benin7070/LeetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Benin7070/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Benin7070/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
+| [0042-trapping-rain-water](https://github.com/Benin7070/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0084-largest-rectangle-in-histogram](https://github.com/Benin7070/LeetCode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0085-maximal-rectangle](https://github.com/Benin7070/LeetCode/tree/main/0085-maximal-rectangle/) | Hard |
+| [0094-binary-tree-inorder-traversal](https://github.com/Benin7070/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/Benin7070/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/Benin7070/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0155-min-stack](https://github.com/Benin7070/LeetCode/tree/main/0155-min-stack/) | Medium |
+| [0234-palindrome-linked-list](https://github.com/Benin7070/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0402-remove-k-digits](https://github.com/Benin7070/LeetCode/tree/main/0402-remove-k-digits/) | Medium |
+| [0445-add-two-numbers-ii](https://github.com/Benin7070/LeetCode/tree/main/0445-add-two-numbers-ii/) | Medium |
+| [0496-next-greater-element-i](https://github.com/Benin7070/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/Benin7070/LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/Benin7070/LeetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Benin7070/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Benin7070/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
+| [0042-trapping-rain-water](https://github.com/Benin7070/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0084-largest-rectangle-in-histogram](https://github.com/Benin7070/LeetCode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0085-maximal-rectangle](https://github.com/Benin7070/LeetCode/tree/main/0085-maximal-rectangle/) | Hard |
+| [0094-binary-tree-inorder-traversal](https://github.com/Benin7070/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/Benin7070/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/Benin7070/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0155-min-stack](https://github.com/Benin7070/LeetCode/tree/main/0155-min-stack/) | Medium |
+| [0234-palindrome-linked-list](https://github.com/Benin7070/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0402-remove-k-digits](https://github.com/Benin7070/LeetCode/tree/main/0402-remove-k-digits/) | Medium |
+| [0445-add-two-numbers-ii](https://github.com/Benin7070/LeetCode/tree/main/0445-add-two-numbers-ii/) | Medium |
+| [0496-next-greater-element-i](https://github.com/Benin7070/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/Benin7070/LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/Benin7070/LeetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Benin7070/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0008-string-to-integer-atoi](https://github.com/Benin7070/LeetCode/tree/main/0008-string-to-integer-atoi/) | Medium |
+| [0020-valid-parentheses](https://github.com/Benin7070/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
+| [0151-reverse-words-in-a-string](https://github.com/Benin7070/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0165-compare-version-numbers](https://github.com/Benin7070/LeetCode/tree/main/0165-compare-version-numbers/) | Medium |
+| [0205-isomorphic-strings](https://github.com/Benin7070/LeetCode/tree/main/0205-isomorphic-strings/) | Easy |
+| [0402-remove-k-digits](https://github.com/Benin7070/LeetCode/tree/main/0402-remove-k-digits/) | Medium |
+| [0412-fizz-buzz](https://github.com/Benin7070/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
+| [0451-sort-characters-by-frequency](https://github.com/Benin7070/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0556-next-greater-element-iii](https://github.com/Benin7070/LeetCode/tree/main/0556-next-greater-element-iii/) | Medium |
+| [0796-rotate-string](https://github.com/Benin7070/LeetCode/tree/main/0796-rotate-string/) | Easy |
+| [0981-time-based-key-value-store](https://github.com/Benin7070/LeetCode/tree/main/0981-time-based-key-value-store/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/Benin7070/LeetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Benin7070/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Benin7070/LeetCode/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
+| [1903-largest-odd-number-in-string](https://github.com/Benin7070/LeetCode/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Benin7070/LeetCode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
+| [3498-reverse-degree-of-a-string](https://github.com/Benin7070/LeetCode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
+
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0008-string-to-integer-atoi](https://github.com/Benin7070/LeetCode/tree/main/0008-string-to-integer-atoi/) | Medium |
+| [0020-valid-parentheses](https://github.com/Benin7070/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
+| [0151-reverse-words-in-a-string](https://github.com/Benin7070/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0165-compare-version-numbers](https://github.com/Benin7070/LeetCode/tree/main/0165-compare-version-numbers/) | Medium |
+| [0205-isomorphic-strings](https://github.com/Benin7070/LeetCode/tree/main/0205-isomorphic-strings/) | Easy |
+| [0402-remove-k-digits](https://github.com/Benin7070/LeetCode/tree/main/0402-remove-k-digits/) | Medium |
+| [0412-fizz-buzz](https://github.com/Benin7070/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
+| [0451-sort-characters-by-frequency](https://github.com/Benin7070/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0556-next-greater-element-iii](https://github.com/Benin7070/LeetCode/tree/main/0556-next-greater-element-iii/) | Medium |
+| [0796-rotate-string](https://github.com/Benin7070/LeetCode/tree/main/0796-rotate-string/) | Easy |
+| [0981-time-based-key-value-store](https://github.com/Benin7070/LeetCode/tree/main/0981-time-based-key-value-store/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/Benin7070/LeetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Benin7070/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Benin7070/LeetCode/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
+| [1903-largest-odd-number-in-string](https://github.com/Benin7070/LeetCode/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Benin7070/LeetCode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
+| [3498-reverse-degree-of-a-string](https://github.com/Benin7070/LeetCode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
+
+## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Benin7070/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0042-trapping-rain-water](https://github.com/Benin7070/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0048-rotate-image](https://github.com/Benin7070/LeetCode/tree/main/0048-rotate-image/) | Medium |
+| [0053-maximum-subarray](https://github.com/Benin7070/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
+| [0054-spiral-matrix](https://github.com/Benin7070/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
+| [0056-merge-intervals](https://github.com/Benin7070/LeetCode/tree/main/0056-merge-intervals/) | Medium |
+| [0059-spiral-matrix-ii](https://github.com/Benin7070/LeetCode/tree/main/0059-spiral-matrix-ii/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/Benin7070/LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Benin7070/LeetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0075-sort-colors](https://github.com/Benin7070/LeetCode/tree/main/0075-sort-colors/) | Medium |
+| [0078-subsets](https://github.com/Benin7070/LeetCode/tree/main/0078-subsets/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Benin7070/LeetCode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
+| [0084-largest-rectangle-in-histogram](https://github.com/Benin7070/LeetCode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0085-maximal-rectangle](https://github.com/Benin7070/LeetCode/tree/main/0085-maximal-rectangle/) | Hard |
+| [0088-merge-sorted-array](https://github.com/Benin7070/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0118-pascals-triangle](https://github.com/Benin7070/LeetCode/tree/main/0118-pascals-triangle/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Benin7070/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0136-single-number](https://github.com/Benin7070/LeetCode/tree/main/0136-single-number/) | Easy |
+| [0137-single-number-ii](https://github.com/Benin7070/LeetCode/tree/main/0137-single-number-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Benin7070/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/Benin7070/LeetCode/tree/main/0162-find-peak-element/) | Medium |
+| [0169-majority-element](https://github.com/Benin7070/LeetCode/tree/main/0169-majority-element/) | Easy |
+| [0229-majority-element-ii](https://github.com/Benin7070/LeetCode/tree/main/0229-majority-element-ii/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Benin7070/LeetCode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
-| [0278-first-bad-version](https://github.com/Benin7070/LeetCode/tree/main/0278-first-bad-version/) | Easy |
+| [0260-single-number-iii](https://github.com/Benin7070/LeetCode/tree/main/0260-single-number-iii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Benin7070/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
-| [0374-guess-number-higher-or-lower](https://github.com/Benin7070/LeetCode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/Benin7070/LeetCode/tree/main/0410-split-array-largest-sum/) | Hard |
-| [0441-arranging-coins](https://github.com/Benin7070/LeetCode/tree/main/0441-arranging-coins/) | Easy |
+| [0455-assign-cookies](https://github.com/Benin7070/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0493-reverse-pairs](https://github.com/Benin7070/LeetCode/tree/main/0493-reverse-pairs/) | Hard |
+| [0496-next-greater-element-i](https://github.com/Benin7070/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/Benin7070/LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/Benin7070/LeetCode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/Benin7070/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Benin7070/LeetCode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
+| [0796-rotate-string](https://github.com/Benin7070/LeetCode/tree/main/0796-rotate-string/) | Easy |
+| [0835-image-overlap](https://github.com/Benin7070/LeetCode/tree/main/0835-image-overlap/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Benin7070/LeetCode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [0860-lemonade-change](https://github.com/Benin7070/LeetCode/tree/main/0860-lemonade-change/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/Benin7070/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
-| [0981-time-based-key-value-store](https://github.com/Benin7070/LeetCode/tree/main/0981-time-based-key-value-store/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/Benin7070/LeetCode/tree/main/0904-fruit-into-baskets) |
+| [0904-fruit-into-baskets](https://github.com/Benin7070/LeetCode/tree/main/0904-fruit-into-baskets) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Benin7070/LeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Benin7070/LeetCode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Benin7070/LeetCode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Benin7070/LeetCode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
@@ -496,108 +1422,188 @@ https://leetcode.com/u/BENIN5050
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Benin7070/LeetCode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/Benin7070/LeetCode/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1901-find-a-peak-element-ii](https://github.com/Benin7070/LeetCode/tree/main/1901-find-a-peak-element-ii/) | Medium |
-## Memoization
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0070-climbing-stairs](https://github.com/Benin7070/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
-## Counting
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0169-majority-element](https://github.com/Benin7070/LeetCode/tree/main/0169-majority-element/) | Easy |
-| [0229-majority-element-ii](https://github.com/Benin7070/LeetCode/tree/main/0229-majority-element-ii/) | Medium |
-| [0451-sort-characters-by-frequency](https://github.com/Benin7070/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
-| [1781-sum-of-beauty-of-all-substrings](https://github.com/Benin7070/LeetCode/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
-## Binary Search Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0096-unique-binary-search-trees](https://github.com/Benin7070/LeetCode/tree/main/0096-unique-binary-search-trees/) | Medium |
-| [0701-insert-into-a-binary-search-tree](https://github.com/Benin7070/LeetCode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
-## Interactive
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0278-first-bad-version](https://github.com/Benin7070/LeetCode/tree/main/0278-first-bad-version/) | Easy |
-| [0374-guess-number-higher-or-lower](https://github.com/Benin7070/LeetCode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
-## Graph Theory
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0547-number-of-provinces](https://github.com/Benin7070/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
-| [0841-keys-and-rooms](https://github.com/Benin7070/LeetCode/tree/main/0841-keys-and-rooms/) | Medium |
-## Union-Find
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0547-number-of-provinces](https://github.com/Benin7070/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
-## Prefix Sum
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0410-split-array-largest-sum](https://github.com/Benin7070/LeetCode/tree/main/0410-split-array-largest-sum/) | Hard |
-| [0560-subarray-sum-equals-k](https://github.com/Benin7070/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
-## Queue
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0918-maximum-sum-circular-subarray](https://github.com/Benin7070/LeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
-## Monotonic Queue
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0918-maximum-sum-circular-subarray](https://github.com/Benin7070/LeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
-## Binary Indexed Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0493-reverse-pairs](https://github.com/Benin7070/LeetCode/tree/main/0493-reverse-pairs/) | Hard |
-## Segment Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0493-reverse-pairs](https://github.com/Benin7070/LeetCode/tree/main/0493-reverse-pairs/) | Hard |
-## Merge Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0023-merge-k-sorted-lists](https://github.com/Benin7070/LeetCode/tree/main/0023-merge-k-sorted-lists/) | Hard |
-| [0148-sort-list](https://github.com/Benin7070/LeetCode/tree/main/0148-sort-list/) | Medium |
-| [0493-reverse-pairs](https://github.com/Benin7070/LeetCode/tree/main/0493-reverse-pairs/) | Hard |
-## Ordered Set
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0493-reverse-pairs](https://github.com/Benin7070/LeetCode/tree/main/0493-reverse-pairs/) | Hard |
-## Treap
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0493-reverse-pairs](https://github.com/Benin7070/LeetCode/tree/main/0493-reverse-pairs/) | Hard |
-## Enumeration
-| Problem Name | Difficulty |
-| ------- | ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Benin7070/LeetCode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [2965-find-missing-and-repeated-values](https://github.com/Benin7070/LeetCode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Benin7070/LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
-## Geometry
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0836-rectangle-overlap](https://github.com/Benin7070/LeetCode/tree/main/0836-rectangle-overlap/) | Easy |
-| [1401-circle-and-rectangle-overlapping](https://github.com/Benin7070/LeetCode/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
-## Bracket Sequences
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1021-remove-outermost-parentheses](https://github.com/Benin7070/LeetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
-| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Benin7070/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [3524-find-x-value-of-array-i](https://github.com/Benin7070/LeetCode/tree/main/3524-find-x-value-of-array-i/) | Medium |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Benin7070/LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-
+
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0796-rotate-string](https://github.com/Benin7070/LeetCode/tree/main/0796-rotate-string/) | Easy |
-## Sliding Window
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Benin7070/LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
-## Heap (Priority Queue)
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0023-merge-k-sorted-lists](https://github.com/Benin7070/LeetCode/tree/main/0023-merge-k-sorted-lists/) | Hard |
-| [0451-sort-characters-by-frequency](https://github.com/Benin7070/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
-## Bucket Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0451-sort-characters-by-frequency](https://github.com/Benin7070/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+
 ## Tournament Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Benin7070/LeetCode/tree/main/0023-merge-k-sorted-lists/) | Hard |
-## Quicksort
+
+## Treap
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0493-reverse-pairs](https://github.com/Benin7070/LeetCode/tree/main/0493-reverse-pairs/) | Hard |
+
+## Treap
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/Benin7070/LeetCode/tree/main/0493-reverse-pairs/) | Hard |
+
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Benin7070/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0096-unique-binary-search-trees](https://github.com/Benin7070/LeetCode/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0100-same-tree](https://github.com/Benin7070/LeetCode/tree/main/0100-same-tree/) | Easy |
+| [0101-symmetric-tree](https://github.com/Benin7070/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/Benin7070/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/Benin7070/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0199-binary-tree-right-side-view](https://github.com/Benin7070/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0513-find-bottom-left-tree-value](https://github.com/Benin7070/LeetCode/tree/main/0513-find-bottom-left-tree-value/) | Medium |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Benin7070/LeetCode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Benin7070/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0096-unique-binary-search-trees](https://github.com/Benin7070/LeetCode/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0100-same-tree](https://github.com/Benin7070/LeetCode/tree/main/0100-same-tree/) | Easy |
+| [0101-symmetric-tree](https://github.com/Benin7070/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/Benin7070/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/Benin7070/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0199-binary-tree-right-side-view](https://github.com/Benin7070/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0513-find-bottom-left-tree-value](https://github.com/Benin7070/LeetCode/tree/main/0513-find-bottom-left-tree-value/) | Medium |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Benin7070/LeetCode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Benin7070/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0096-unique-binary-search-trees](https://github.com/Benin7070/LeetCode/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0100-same-tree](https://github.com/Benin7070/LeetCode/tree/main/0100-same-tree/) | Easy |
+| [0101-symmetric-tree](https://github.com/Benin7070/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/Benin7070/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/Benin7070/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0199-binary-tree-right-side-view](https://github.com/Benin7070/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0513-find-bottom-left-tree-value](https://github.com/Benin7070/LeetCode/tree/main/0513-find-bottom-left-tree-value/) | Medium |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Benin7070/LeetCode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Benin7070/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0096-unique-binary-search-trees](https://github.com/Benin7070/LeetCode/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0100-same-tree](https://github.com/Benin7070/LeetCode/tree/main/0100-same-tree/) | Easy |
+| [0101-symmetric-tree](https://github.com/Benin7070/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/Benin7070/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/Benin7070/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0199-binary-tree-right-side-view](https://github.com/Benin7070/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0513-find-bottom-left-tree-value](https://github.com/Benin7070/LeetCode/tree/main/0513-find-bottom-left-tree-value/) | Medium |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Benin7070/LeetCode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Benin7070/LeetCode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0031-next-permutation](https://github.com/Benin7070/LeetCode/tree/main/0031-next-permutation/) | Medium |
+| [0042-trapping-rain-water](https://github.com/Benin7070/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0061-rotate-list](https://github.com/Benin7070/LeetCode/tree/main/0061-rotate-list/) | Medium |
+| [0075-sort-colors](https://github.com/Benin7070/LeetCode/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/Benin7070/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0141-linked-list-cycle](https://github.com/Benin7070/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/Benin7070/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0148-sort-list](https://github.com/Benin7070/LeetCode/tree/main/0148-sort-list/) | Medium |
+| [0151-reverse-words-in-a-string](https://github.com/Benin7070/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/Benin7070/LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0165-compare-version-numbers](https://github.com/Benin7070/LeetCode/tree/main/0165-compare-version-numbers/) | Medium |
+| [0234-palindrome-linked-list](https://github.com/Benin7070/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/Benin7070/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0455-assign-cookies](https://github.com/Benin7070/LeetCode/tree/main/0455-assign-cookies/) | Easy |
+| [0556-next-greater-element-iii](https://github.com/Benin7070/LeetCode/tree/main/0556-next-greater-element-iii/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/Benin7070/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Benin7070/LeetCode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Benin7070/LeetCode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Benin7070/LeetCode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
+
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Benin7070/LeetCode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0031-next-permutation](https://github.com/Benin7070/LeetCode/tree/main/0031-next-permutation/) | Medium |
+| [0042-trapping-rain-water](https://github.com/Benin7070/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0061-rotate-list](https://github.com/Benin7070/LeetCode/tree/main/0061-rotate-list/) | Medium |
+| [0075-sort-colors](https://github.com/Benin7070/LeetCode/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/Benin7070/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0141-linked-list-cycle](https://github.com/Benin7070/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/Benin7070/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0148-sort-list](https://github.com/Benin7070/LeetCode/tree/main/0148-sort-list/) | Medium |
+| [0151-reverse-words-in-a-string](https://github.com/Benin7070/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/Benin7070/LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0165-compare-version-numbers](https://github.com/Benin7070/LeetCode/tree/main/0165-compare-version-numbers/) | Medium |
+| [0234-palindrome-linked-list](https://github.com/Benin7070/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/Benin7070/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0455-assign-cookies](https://github.com/Benin7070/LeetCode/tree/main/0455-assign-cookies/) | Easy |
+| [0556-next-greater-element-iii](https://github.com/Benin7070/LeetCode/tree/main/0556-next-greater-element-iii/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/Benin7070/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Benin7070/LeetCode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Benin7070/LeetCode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Benin7070/LeetCode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
+
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Benin7070/LeetCode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0031-next-permutation](https://github.com/Benin7070/LeetCode/tree/main/0031-next-permutation/) | Medium |
+| [0042-trapping-rain-water](https://github.com/Benin7070/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0061-rotate-list](https://github.com/Benin7070/LeetCode/tree/main/0061-rotate-list/) | Medium |
+| [0075-sort-colors](https://github.com/Benin7070/LeetCode/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/Benin7070/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0141-linked-list-cycle](https://github.com/Benin7070/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/Benin7070/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0148-sort-list](https://github.com/Benin7070/LeetCode/tree/main/0148-sort-list/) | Medium |
+| [0151-reverse-words-in-a-string](https://github.com/Benin7070/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/Benin7070/LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0165-compare-version-numbers](https://github.com/Benin7070/LeetCode/tree/main/0165-compare-version-numbers/) | Medium |
+| [0234-palindrome-linked-list](https://github.com/Benin7070/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/Benin7070/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0455-assign-cookies](https://github.com/Benin7070/LeetCode/tree/main/0455-assign-cookies/) | Easy |
+| [0556-next-greater-element-iii](https://github.com/Benin7070/LeetCode/tree/main/0556-next-greater-element-iii/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/Benin7070/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Benin7070/LeetCode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Benin7070/LeetCode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Benin7070/LeetCode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
+
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Benin7070/LeetCode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0031-next-permutation](https://github.com/Benin7070/LeetCode/tree/main/0031-next-permutation/) | Medium |
+| [0042-trapping-rain-water](https://github.com/Benin7070/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0061-rotate-list](https://github.com/Benin7070/LeetCode/tree/main/0061-rotate-list/) | Medium |
+| [0075-sort-colors](https://github.com/Benin7070/LeetCode/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/Benin7070/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0141-linked-list-cycle](https://github.com/Benin7070/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/Benin7070/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0148-sort-list](https://github.com/Benin7070/LeetCode/tree/main/0148-sort-list/) | Medium |
+| [0151-reverse-words-in-a-string](https://github.com/Benin7070/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/Benin7070/LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0165-compare-version-numbers](https://github.com/Benin7070/LeetCode/tree/main/0165-compare-version-numbers/) | Medium |
+| [0234-palindrome-linked-list](https://github.com/Benin7070/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/Benin7070/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0455-assign-cookies](https://github.com/Benin7070/LeetCode/tree/main/0455-assign-cookies/) | Easy |
+| [0556-next-greater-element-iii](https://github.com/Benin7070/LeetCode/tree/main/0556-next-greater-element-iii/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/Benin7070/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Benin7070/LeetCode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Benin7070/LeetCode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Benin7070/LeetCode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
+
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0547-number-of-provinces](https://github.com/Benin7070/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
+
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0547-number-of-provinces](https://github.com/Benin7070/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
+
 <!---LeetCode Topics End-->
