@@ -14,6 +14,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem |
 | ------- |
 | [0001-two-sum](https://github.com/Benin7070/LeetCode/tree/main/0001-two-sum) |
+| [0424-lo
+| [0424-lo
+| [0424-longest-repeating-character-replacement](https://github.com/Benin7070/LeetCode/tree/main/0424-longest-repeating-character-replacement) |
+| [0424-longest-repeating-character-replacement](https://github.com/Benin7070/LeetCode/tree/main/0424-longest-repeating-character-replacement) |
 | [0424-longest-repeating-character-replacement](https://github.com/Benin7070/LeetCode/tree/main/0424-longest-repeating-character-replacement) |
 
 ## Sliding Window
