@@ -7,11 +7,11 @@
       "0001-two-sum": {
         "0001-two-sum.py": "a048ed3f1298f0f5abe03e5603d6bb38cab2bd92"
       },
-      "0904-fruit-into-baskets": {
-        "0904-fruit-into-baskets.py": "1e382602050806ad6bb7a6b723a33dce3bd760eb"
-      },
       "0424-longest-repeating-character-replacement": {
         "0424-longest-repeating-character-replacement.py": "6628d1ecf8597baf4d29a7b9a1702ae48265701e"
+      },
+      "0904-fruit-into-baskets": {
+        "0904-fruit-into-baskets.py": "1e382602050806ad6bb7a6b723a33dce3bd760eb"
       }
     },
     "solved": 3
